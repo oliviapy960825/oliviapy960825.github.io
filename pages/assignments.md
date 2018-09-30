@@ -32,7 +32,7 @@ description: Ben Harvey's assignments
 
 {Add description of example an assignment here}
 
-Results | Repository
+Results | Research Proposal
 ---|---
 <a href="https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/HW1.ipynb">assignment1 results</a>| [assignment1 repositiory]()
 
