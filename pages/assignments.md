@@ -34,7 +34,7 @@ description: Ben Harvey's assignments
 
 Results | Research Proposal
 ---|---
-<a href="https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/HW1.ipynb">assignment1 results</a>| [assignment1 repositiory]()
+<a href="https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/HW1.ipynb">Assignment1 results</a>|<a href="https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/Research%20Proposal.txt">Research Proposal</a>
 
 ---
 
