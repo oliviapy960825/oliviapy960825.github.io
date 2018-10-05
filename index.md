@@ -1,17 +1,17 @@
 ---
 layout: frontpage
 title: Wang Peiyu
-description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
+description: Wang Peiyu is a Data Analytics student at The George Washington University.
 keywords: statistics, data analytics
 ---
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/bsharvey">github</a></li>
-          <li><a href="http://kbroman.org/blog">blog</a></li>
-          <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">LinkedIn</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/Wang_Peiyu_cv.pdf">cv</a></li>
+          <li><a href="https://github.com/oliviapy960825">github</a></li>
+          <li><a href="">blog</a></li>
+          <li><a href="https://www.linkedin.com/in/peiyu-w-a2a804126/">LinkedIn</a></li>
       </ul>
   </div>
 </div>
