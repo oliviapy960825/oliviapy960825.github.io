@@ -1,7 +1,7 @@
 ---
 layout: page
 title: labs & assignments
-description: Ben Harvey's assignments
+description: Wang Peiyu's assignments
 ---
 
 
@@ -54,7 +54,7 @@ Results | Research Proposal
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| [assignment2 results]()| [assignment2 repositiory]()|
+| <a href="https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/HW2.ipynb">Assignment2 Results</a>| [assignment2 repositiory]()|
 
 ---
 
