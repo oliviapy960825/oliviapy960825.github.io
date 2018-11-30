@@ -74,7 +74,7 @@ Results | Research Proposal
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| [assignment3 results]()| [assignment3 repositiory]()|
+| <a href="https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/HW3.ipynb">Assignment3 Results </a>| [assignment3 repositiory]()|
 
 ---
 
