@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Analytics ToolKit
-description: Ben Harvey's assignments
+description: Wang Peiyu's assignments
 ---
 
 <div class="navbar">
@@ -170,5 +170,3 @@ description: Ben Harvey's assignments
 ### <a name="R Packages"></a>R Packages
 #### <a name="qtl"></a>[R](http://www.r-project.org)
 TBD
-
-

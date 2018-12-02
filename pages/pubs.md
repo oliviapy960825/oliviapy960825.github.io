@@ -1,7 +1,7 @@
 ---
 layout: page
 title: publications
-description: Ben Harvey's publications
+description: Wang Peiyu's publications
 ---
 
 <div class="navbar">
@@ -58,5 +58,3 @@ description: Ben Harvey's publications
 #### <a name="thesis"></a>dissertation
 
 ---
-
-

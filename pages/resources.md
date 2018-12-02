@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-description: Ben Harvey's assignments
+description: Wang Peiyu's assignments
 ---
 
 <div class="navbar">
@@ -144,4 +144,3 @@ description: Ben Harvey's assignments
 
 ## <a name="Miscelaneous"></a>Miscelaneous
 ---
-
