@@ -19,10 +19,10 @@ description: Student's Courses
 ### <a name="current"></a>Current courses
 
 #### [Programming for Analytics](http://www2.seas.gwu.edu/~bhagiweb/emse6574/) (EMSE 6574; Fall, 2018)
-- [Site] (http://www2.seas.gwu.edu/~bhagiweb/emse6574/)
+- [Site](http://www2.seas.gwu.edu/~bhagiweb/emse6574/)
 
 #### [Data Analysis for Eng & Sci](https://www2.seas.gwu.edu/~dorpjr/EMSE271/Coursefiles.html) (EMSE 6765; Fall, 2018)
-- [Site] (https://www2.seas.gwu.edu/~dorpjr/EMSE271/Coursefiles.html)
+- [Site](https://www2.seas.gwu.edu/~dorpjr/EMSE271/Coursefiles.html)
 
 #### [Data Analytics Introduction and Practicum](http://bsharvey.github.io) (EMSE 6992; Fall, 2018)
 
