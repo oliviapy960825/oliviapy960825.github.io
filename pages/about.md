@@ -17,9 +17,9 @@ description: Wang Peiyu is...
 
 
 #### <a name="education"></a>ecucation
-{ B.S. in E-commerce at Southwestern University of Finance and Economics
-  B.S. in Management Information Systems, minor in computer science at University of Delaware
-  M.S. in Data Analytics at The George Washington University}
+{ B.S. in E-commerce at Southwestern University of Finance and Economics}
+{ B.S. in Management Information Systems, minor in computer science at University of Delaware}  
+{ M.S. in Data Analytics at The George Washington University}
 
 
 #### <a name="cvandresume"></a>cv and resume
