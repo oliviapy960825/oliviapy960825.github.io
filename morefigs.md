@@ -6,10 +6,10 @@ title: Karl Broman
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/Wang_Peiyu_cv.pdf">cv</a></li>
           <li><a href="https://github.com/kbroman">github</a></li>
-          <li><a href="http://kbroman.org/blog">blog</a></li>
-          <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">linkedin</a></li>
+          <li><a href="https://github.com/oliviapy960825">blog</a></li>
+          <li><a href="https://www.linkedin.com/in/peiyu-w-a2a804126/">linkedin</a></li>
       </ul>
   </div>
 </div>
