@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Karl Broman
+title: Wang Peiyu
 ---
 
 <div class="navbar">
