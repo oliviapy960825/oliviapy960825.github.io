@@ -13,7 +13,7 @@ description: Wang Peiyu is...
 
 
 #### <a name="researchbackground"></a>research background
-{Insert text here}
+{N/A}
 
 
 #### <a name="education"></a>ecucation
