@@ -22,7 +22,7 @@ keywords: statistics, data analytics
 <tr>
   <td class="left">
     <a href="">
-        <img src="assets/publpics/data_pic_1.png" alt="Data Visualization example" title="Data Visualization example"/>
+        <img src="assets/publpics/data_pic_1.jpg" alt="Data Visualization example" title="Data Visualization example"/>
     </a>
   </td>
   <td class="right">
