@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Presentations
-description: Student's Presentations in Data Analytics
+description: Wang Peiyu's Presentations in Data Analytics
 ---
 
 
