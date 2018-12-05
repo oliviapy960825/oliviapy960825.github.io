@@ -80,7 +80,7 @@ Results | Research Proposal
 
 
 
-####  <a name="Assignment4"></a>Assignment4
+####  <a name="Assignment4"></a>Extra Lab
 ##### <a name="networkanalysis"></a>network analysis
 * [Lab: Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab9/lab_9_with_answers.ipynb)
 
@@ -93,14 +93,10 @@ Results | Research Proposal
 {Add description of example an assignment here}
 
 
-| Results                | Repository                 |
-| ---------------------- |:--------------------------:|
-| [assignment4 results]()| [assignment4 repositiory]()|
-
 ---
 
 
-####  <a name="ExtraCredit"></a>Extra Credit Assignment
+####  <a name="ExtraCredit"></a>Extra Lab2
 ##### <a name="webscraping"></a>webs craping
 * [Lab: Web Scraping](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab2/Lab_2_A_Johanna.ipynb)
 
@@ -111,11 +107,6 @@ Results | Research Proposal
 * [Lab: Sampling and Text Processing ](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab7/GibbsSampler.ipynb)
 
 {Add description of example an assignment here}
-
-
-| Results                | Repository                 |
-| ---------------------- |:--------------------------:|
-| [Extra Credit results]()| [Extra Credit repositiory]()|
 
 ---
 
