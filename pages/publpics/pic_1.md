@@ -12,6 +12,7 @@ title: Feature Selection Example
   </div>
 </div>
 
-[Feature Selection](https://scikit-learn.org/stable/modules/feature_selection.html), a Python packag, the classes in the sklearn.feature_selection module can be used for feature selection/dimensionality reduction on sample sets, either to improve estimators’ accuracy scores or to boost their performance on very high-dimensional datasets.
+[Feature Selection](https://scikit-learn.org/stable/modules/feature_selection.html)
+ A Python package. The classes in the sklearn.feature_selection module can be used for feature selection/dimensionality reduction on sample sets, either to improve estimators’ accuracy scores or to boost their performance on very high-dimensional datasets.
 
-[![Feature Selection Example](../../assets/publpics/pic_1.png)](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/6992_Project.ipynb)
+[![Feature Selection Example](../../assets/publpics/pic_1.png)]Click to see the example(https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/6992_Project.ipynb)
