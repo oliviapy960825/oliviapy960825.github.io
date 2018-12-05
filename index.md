@@ -38,8 +38,8 @@ keywords: statistics, data analytics
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/pic_4.html">
-        <img src="assets/publpics/pic_4.png" alt="violin plot for word count" title="violin plot for word count"/>
+    <a href="pages/publpics/pic_12.html">
+        <img src="assets/publpics/pic_12.png" alt="SPLOM Visualization" title="SPLOM Visualization"/>
     </a>
   </td>
 </tr>
