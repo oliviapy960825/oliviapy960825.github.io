@@ -21,26 +21,25 @@ keywords: statistics, data analytics
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="">
-        <img src="assets/publpics/data_pic_1.jpg" alt="Data Visualization example" title="Data Visualization example"/>
+    <a href="pages/publpics/pic_1.html">
+        <img src="assets/publpics/pic_1.png" alt="Feature Concatenating example" title="Feature Concatenating example"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/tian2016_fig4.html">
-        <img src="assets/publpics/tian2016_fig4.png" alt="Tian et
-        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
+    <a href="pages/publpics/pic_2.html">
+        <img src="assets/publpics/pic_2.png" alt="PCA_LDA" title="PCA_LDA"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+    <a href="pages/publpics/pic_3.html">
+        <img src="assets/publpics/pic_3.png" alt="violin plot for case number" title="violin plot for case number"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/isletc6_fig4.html">
-        <img src="assets/publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
+    <a href="pages/publpics/pic_4.html">
+        <img src="assets/publpics/pic_4.png" alt="violin plot for word count" title="violin plot for word count"/>
     </a>
   </td>
 </tr>

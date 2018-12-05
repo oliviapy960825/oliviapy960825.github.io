@@ -34,7 +34,7 @@ description: Wang Peiyu's assignments
 
 Results | Research Proposal
 ---|---
-<a href="https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/HW1.ipynb">Assignment1 results</a>|<a href="https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/Research%20Proposal.txt">Research Proposal</a>
+<a href="https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/HW1.ipynb">Assignment1</a>|<a href="https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/Research%20Proposal.txt">Research Proposal</a>
 
 ---
 
@@ -54,7 +54,7 @@ Results | Research Proposal
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| <a href="https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/HW2.ipynb">Assignment2 Results</a>| [assignment2 repositiory]()|
+| <a href="https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/HW2.ipynb">Assignment2</a>| [assignment2 repositiory]()|
 
 ---
 
@@ -74,7 +74,7 @@ Results | Research Proposal
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| <a href="https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/HW3.ipynb">Assignment3 Results </a>| <a href="https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/HW3.ipynb">Assignment3 Repository </a>|
+| <a href="https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/HW3.ipynb">Assignment3 </a>| <a href="https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/HW3.ipynb">Assignment3 Repository </a>|
 
 ---
 
