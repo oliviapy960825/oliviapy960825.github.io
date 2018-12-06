@@ -6,8 +6,8 @@ title: More Figures
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="pic_12.html">prev</a></li>
-          <li><a href="pic_1.html">next</a></li>
+          <li><a href="pages/publpics/pic_12.html">prev</a></li>
+          <li><a href="pages/publpics/pic_1.html">next</a></li>
       </ul>
   </div>
 </div>
