@@ -17,6 +17,5 @@ title: SPLOM Visualization and Correlation Example
  [Correlation Table](https://en.wikipedia.org/wiki/Correlation_and_dependence)
   In the broadest sense correlation is any statistical association, though in common usage it most often refers to how close two variables are to having a linear relationship with each other.
 
-
-[![SPLOM Visualization and Correlation Table Example](../../assets/publpics/pic_12.png)]  
+[SPLOM Visualization and Correlation Table Example](../../assets/publpics/pic_12.png)  <br />
 [SPLOM Visualization and Correlation Table Example Code](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/6992_Project.ipynb)
