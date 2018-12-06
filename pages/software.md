@@ -109,20 +109,19 @@ SciPy contains modules for optimization, linear algebra, integration, interpolat
 ---
 
 
-#### <a name="qtl"></a>[matpilotlib](http://www.rqtl.org)
-{Add description of example an library here}
-
-[matpilotlib example](http://groups.google.com/group/Rqtl-disc)
-[matpilotlib repository](http://groups.google.com/group/Rqtl-disc)
-
+#### <a name="qtl"></a>[matpilotlib](https://matplotlib.org/)
+{matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK+. There is also a procedural "pylab" interface based on a state machine (like OpenGL), designed to closely resemble that of MATLAB, though its use is discouraged.[3] SciPy makes use of matplotlib.}
+[matpilotlib example](https://matplotlib.org/tutorials/index.html)
+[matpilotlib repository](https://matplotlib.org/tutorials/index.html)
 
 
 
-#### <a name="qtl"></a>[plotly](https://matplotlib.org/)
-{matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK+. There is also a procedural "pylab" interface based on a state machine (like OpenGL), designed to closely resemble that of MATLAB, though its use is discouraged.[3] SciPy makes use of matplotlib. }
 
-[plotly example](https://matplotlib.org/tutorials/index.html)
-[plotly repository](https://matplotlib.org/tutorials/index.html)
+#### <a name="qtl"></a>[plotly](https://plot.ly/)
+{}
+
+[plotly example](https://github.com/plotly)
+[plotly repository](https://github.com/plotly)
 
 
 ---

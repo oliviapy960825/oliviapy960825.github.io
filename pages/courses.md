@@ -26,7 +26,7 @@ description: Student's Courses
 
 #### [Data Analytics Introduction and Practicum](http://bsharvey.github.io) (EMSE 6992; Fall, 2018)
 
-- [Site](https://bsharvey.github.io/)
+- [Site](https://oliviapy960825.github.io/)
 - [My Portfolio](https://oliviapy960825.github.io/)
 - [Assignments](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments)
 - [Labs](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs)
