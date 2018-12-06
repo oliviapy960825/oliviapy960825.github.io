@@ -19,5 +19,6 @@ title: More Figures
 [![Residual Plot Against Both Training and Testing Data](../../assets/publpics/pic_14.png)] <br />
 [![2-D PCA on Standardized Data](../../assets/publpics/pic_15.png)] <br />
 [![Plot of the Reconstructed Data](../../assets/publpics/pic_16.png)] <br />
-[![Plot of the 10 Nearest Neighbor](../../assets/publpics/pic_17.png)] <br />  
+[![Plot of the 10 Nearest Neighbor](../../assets/publpics/pic_17.png)] <br />
+[![Plot of the 3-D projection of the data](../../assets/publpics/pic_18.png)] <br />  
 [Example Code](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/6992_Project.ipynb)
