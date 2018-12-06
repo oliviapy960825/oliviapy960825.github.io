@@ -7,7 +7,6 @@ title: SPLOM Visualization and Correlation Example
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="pic_3.html">prev</a></li>
-          <li><a href="morefigs.html">next</a></li>
       </ul>
   </div>
 </div>
