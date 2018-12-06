@@ -23,109 +23,90 @@ description: Wang Peiyu's assignments
 
 
 ### <a name="datastructures"></a>data structures
-#### <a name="qtl"></a>[pandas](http://www.rqtl.org)
-{Add description of example an library here}
+#### <a name="qtl"></a>[pandas](https://pandas.pydata.org/)
+{pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language}
 
-[pandas example](http://groups.google.com/group/Rqtl-disc)
-[pandas repository](http://groups.google.com/group/Rqtl-disc)
+[pandas example](https://pandas.pydata.org/pandas-docs/stable/10min.html)
+[pandas repository](https://pandas.pydata.org/pandas-docs/stable/10min.html)
 
 
 ### <a name="deeplearning"></a>deep learning
-#### <a name="qtl"></a>[theano](http://www.rqtl.org)
-{Add description of example an library here}
+#### <a name="qtl"></a>[theano](http://deeplearning.net/software/theano/)
+{Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. Theano features:
 
-[numpy example](http://groups.google.com/group/Rqtl-disc)
-[numpy repository](http://groups.google.com/group/Rqtl-disc)
+    1. tight integration with NumPy – Use numpy.ndarray in Theano-compiled functions.
+    2. transparent use of a GPU – Perform data-intensive computations much faster than on a CPU.
+    3. efficient symbolic differentiation – Theano does your derivatives for functions with one or many inputs.
+    4. speed and stability optimizations – Get the right answer for log(1+x) even when x is really tiny.
+    5. dynamic C code generation – Evaluate expressions faster.
+    6. extensive unit-testing and self-verification – Detect and diagnose many types of errors.
+}
 
-#### <a name="qtl"></a>[tensorflow](http://www.rqtl.org)
-{Add description of example an library here}
+[numpy example](http://deeplearning.net/software/theano/tutorial/index.html#tutorial)
+[numpy repository](http://deeplearning.net/software/theano/tutorial/index.html#tutorial)
 
-[tensorflow example](http://groups.google.com/group/Rqtl-disc)
-[tensorflow repository](http://groups.google.com/group/Rqtl-disc)
+#### <a name="qtl"></a>[tensorflow](https://www.tensorflow.org/)
+{TensorFlow™ is an open source software library for high performance numerical computation. Its flexible architecture allows easy deployment of computation across a variety of platforms (CPUs, GPUs, TPUs), and from desktops to clusters of servers to mobile and edge devices. Originally developed by researchers and engineers from the Google Brain team within Google’s AI organization, it comes with strong support for machine learning and deep learning and the flexible numerical computation core is used across many other scientific domains.}
 
-#### <a name="qtl"></a>[keras](http://www.rqtl.org)
-{Add description of example an library here}
+[tensorflow example](https://www.tensorflow.org/tutorials/)
+[tensorflow repository](https://www.tensorflow.org/tutorials/)
 
-[keras example](http://groups.google.com/group/Rqtl-disc)
-[keras repository](http://groups.google.com/group/Rqtl-disc)
+#### <a name="qtl"></a>[keras](https://keras.io/)
+{Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least possible delay is key to doing good research.
+
+Use Keras if you need a deep learning library that:
+
+    1. Allows for easy and fast prototyping (through user friendliness, modularity, and extensibility).
+    2. Supports both convolutional networks and recurrent networks, as well as combinations of the two.
+    3. Runs seamlessly on CPU and GPU.
+}
+
+[keras example](https://keras.io/)
+[keras repository](https://keras.io/)
 
 ---
 
 ### <a name="machinelearning"></a>machine learning
-{Add description of example an library here}
+{Machine learning (ML) is the study of algorithms and mathematical models that computer systems use to progressively improve their performance on a specific task. Machine learning algorithms build a mathematical model of sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to perform the task}
 
-#### <a name="qtl"></a>[mlpy](http://www.rqtl.org)
-[mlpy example](http://groups.google.com/group/Rqtl-disc)
-[mlpy repository](http://groups.google.com/group/Rqtl-disc)
+#### <a name="qtl"></a>[mlpy](http://mlpy.sourceforge.net/)
+[mlpy example](https://minepy.readthedocs.io/en/latest/)
+[mlpy repository](https://minepy.readthedocs.io/en/latest/)
 
-#### <a name="qtl"></a>[sci-kit-learn](http://www.rqtl.org)
-{Add description of example an library here}
+#### <a name="qtl"></a>[sci-kit-learn](https://scikit-learn.org/stable/)
+{Scikit-learn (formerly scikits.learn) is a free software machine learning library for the Python programming language.[3] It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy}
 
-[scikit-learn](http://groups.google.com/group/Rqtl-disc)
-[scikit-learn](http://groups.google.com/group/Rqtl-disc)
-
----
-
-### <a name="networkanalysis"></a>network analysis
-#### <a name="qtl"></a>[networkx](http://www.rqtl.org)
-{Add description of example an library here}
-
-[networkx example](http://groups.google.com/group/Rqtl-disc)
-[networkx repository](http://groups.google.com/group/Rqtl-disc)
-
+[scikit-learn](https://scikit-learn.org/stable/tutorial/index.html)
+[scikit-learn](https://scikit-learn.org/stable/tutorial/index.html)
 
 ---
+
 
 ### <a name="scientificcomputing"></a>scientific computing
-#### <a name="qtl"></a>[numpy](http://www.rqtl.org)
-{Add description of example an library here}
+#### <a name="qtl"></a>[numpy](http://www.numpy.org/)
+{NumPy is the fundamental package for scientific computing with Python. It contains among other things:
 
-[numpy examples](http://groups.google.com/group/Rqtl-disc)
-[numpy repository](http://groups.google.com/group/Rqtl-disc)
+    a powerful N-dimensional array object
+    sophisticated (broadcasting) functions
+    tools for integrating C/C++ and Fortran code
+    useful linear algebra, Fourier transform, and random number capabilities
 
+Besides its obvious scientific uses, NumPy can also be used as an efficient multi-dimensional container of generic data. Arbitrary data-types can be defined. This allows NumPy to seamlessly and speedily integrate with a wide variety of databases.}
 
-#### <a name="qtl"></a>[scipy](http://www.rqtl.org)
-{Add description of example an library here}
-
-[scipy example](http://groups.google.com/group/Rqtl-disc)
-[scipy repository](http://groups.google.com/group/Rqtl-disc)
-
-
----
-
-### <a name="statisticalanalysis"></a>statistic alanalysis
-#### <a name="qtl"></a>[statsmodels](http://www.rqtl.org)
-{Add description of example an library here}
-
-[statsmodels example](http://groups.google.com/group/Rqtl-disc)
-[statsmodels repository](http://groups.google.com/group/Rqtl-disc)
+[numpy examples](https://docs.scipy.org/doc/numpy/user/quickstart.html)
+[numpy repository](https://docs.scipy.org/doc/numpy/user/quickstart.html)
 
 
----
+#### <a name="qtl"></a>[scipy](https://www.scipy.org/)
+{SciPy (pronounced /ˈsaɪpaɪ'/ "Sigh Pie"[3]) is a free and open-source Python library used for scientific computing and technical computing.
 
-### <a name="textprocessing"></a>text processing
-#### <a name="qtl"></a>[nlkt](http://www.rqtl.org)
-{Add description of example an library here}
+SciPy contains modules for optimization, linear algebra, integration, interpolation, special functions, FFT, signal and image processing, ODE solvers and other tasks common in science and engineering. }
 
-[nlkt example](http://groups.google.com/group/Rqtl-disc)
-[nlkt repository](http://groups.google.com/group/Rqtl-disc)
-
-
-#### <a name="qtl"></a>[gensim](http://www.rqtl.org)
-{Add description of example an library here}
-
-[gensim example](http://groups.google.com/group/Rqtl-disc)
-[gensim repository](http://groups.google.com/group/Rqtl-disc)
+[scipy example](https://docs.scipy.org/doc/scipy/reference/tutorial/index.html)
+[scipy repository](https://docs.scipy.org/doc/scipy/reference/tutorial/index.html)
 
 
 ---
-
-### <a name="visualization"></a>visualization
-#### <a name="qtl"></a>[bokeh](http://www.rqtl.org)
-{Add description of example an library here}
-
-[bokeh example](http://groups.google.com/group/Rqtl-disc)
-[bokeh repository](http://groups.google.com/group/Rqtl-disc)
 
 
 #### <a name="qtl"></a>[matpilotlib](http://www.rqtl.org)
@@ -135,38 +116,32 @@ description: Wang Peiyu's assignments
 [matpilotlib repository](http://groups.google.com/group/Rqtl-disc)
 
 
-#### <a name="qtl"></a>[seaborn](http://www.rqtl.org)
-{Add description of example an library here}
-
-[seaborn example](http://groups.google.com/group/Rqtl-disc)
-[seaborn repository](http://groups.google.com/group/Rqtl-disc)
 
 
-#### <a name="qtl"></a>[plotly](http://www.rqtl.org)
-{Add description of example an library here}
+#### <a name="qtl"></a>[plotly](https://matplotlib.org/)
+{matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK+. There is also a procedural "pylab" interface based on a state machine (like OpenGL), designed to closely resemble that of MATLAB, though its use is discouraged.[3] SciPy makes use of matplotlib. }
 
-[plotly example](http://groups.google.com/group/Rqtl-disc)
-[plotly repository](http://groups.google.com/group/Rqtl-disc)
+[plotly example](https://matplotlib.org/tutorials/index.html)
+[plotly repository](https://matplotlib.org/tutorials/index.html)
 
 
 ---
 
 ### <a name="webscraping"></a>web scraping
-#### <a name="qtl"></a>[beautifulsoup](http://www.rqtl.org)
-{Add description of example an library here}
+#### <a name="qtl"></a>[beautifulsoup](https://www.crummy.com/software/BeautifulSoup/)
+{Beautiful Soup is a Python package for parsing HTML and XML documents (including having malformed markup, i.e. non-closed tags, so named after tag soup). It creates a parse tree for parsed pages that can be used to extract data from HTML, which is useful for web scraping.[1]
 
-[beautifulsoup example](http://groups.google.com/group/Rqtl-disc)
-[beautifulsoup repository](http://groups.google.com/group/Rqtl-disc)
+It is available for Python 2.6+ and Python 3. }
+
+[beautifulsoup example](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+[beautifulsoup repository](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 
-#### <a name="qtl"></a>[scrapy](http://www.rqtl.org)
-{Add description of example an library here}
+#### <a name="qtl"></a>[scrapy](https://scrapy.org/)
+{Scrapy is a free and open-source web-crawling framework written in Python. Originally designed for web scraping, it can also be used to extract data using APIs or as a general-purpose web crawler.[3] It is currently maintained by Scrapinghub Ltd., a web-scraping development and services company. }
 
-[scrapy example](http://groups.google.com/group/Rqtl-disc)
-[scrapy repository](http://groups.google.com/group/Rqtl-disc)
+[scrapy example](https://scrapy.org/)
+[scrapy repository](https://scrapy.org/)
 
 
 ---
-### <a name="R Packages"></a>R Packages
-#### <a name="qtl"></a>[R](http://www.r-project.org)
-TBD

@@ -17,106 +17,105 @@ description: Wang Peiyu's assignments
 
 ## <a name="Data"></a>Data
 #### <a name="Government Open Data"></a>[data.gov.in](https://data.gov.in/)
-{Add description of data here}
 
-[data.gov.in data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
+[data.gov.in data example](https://data.gov.in/catalogs)
+[data repository](https://data.gov.in/catalogs)
 
 ---
 
 #### <a name="qtl"></a>[World Band](http://data.worldbank.org/)
-{Add description of data here}
 
-[World Bank data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
+
+[World Bank data example](http://databank.worldbank.org/data/home.aspx)
+[data repository](http://databank.worldbank.org/data/home.aspx)
 
 ---
 
 #### <a name="qtl"></a>[Reserve Bank India](https://rbi.org.in/Scripts/Statistics.aspx)
-{Add description of data here}
 
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
+
+[data example](https://rbi.org.in/Scripts/Statistics.aspx)
+[data repository](https://rbi.org.in/Scripts/Statistics.aspx)
 
 ---
 
 #### <a name="qtl"></a>[Five Thirty Eight Datasets](https://github.com/fivethirtyeight/data)
-{Add description of data here}
 
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
+
+[data example](https://github.com/fivethirtyeight/data)
+[data repository](https://github.com/fivethirtyeight/data)
 
 ---
 
 #### <a name="qtl"></a>[AWS dataset](https://aws.amazon.com/datasets/)
-{Add description of data here}
 
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
+
+[data example](https://aws.amazon.com/datasets/)
+[data repository](https://aws.amazon.com/datasets/)
 
 ---
 
 #### <a name="qtl"></a>[Google datasets](https://cloud.google.com/bigquery/public-data/)
-{Add description of data here}
 
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
+
+[data example](https://cloud.google.com/bigquery/public-data/)
+[data repository](https://cloud.google.com/bigquery/public-data/)
 
 ---
 
 #### <a name="qtl"></a>[Youtube labeled Video datasets](https://research.google.com/youtube8m/)
-{Add description of data here}
 
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
+
+[data example](https://research.google.com/youtube8m/)
+[data repository](https://research.google.com/youtube8m/)
 
 ---
 
 #### <a name="qtl"></a>[UCI Machine Learning Repisitory](https://archive.ics.uci.edu/ml/datasets.html)
-{Add description of data here}
 
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
+
+[data example](https://archive.ics.uci.edu/ml/datasets.html)
+[data repository](https://archive.ics.uci.edu/ml/datasets.html)
 
 ---
 
 #### <a name="qtl"></a>[Kaggle](https://www.kaggle.com/datasets)
-{Add description of data here}
 
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
+
+[data example](https://www.kaggle.com/datasets)
+[data repository](https://www.kaggle.com/datasets)
 
 ---
 
 #### <a name="qtl"></a>[Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/all/)
-{Add description of data here}
 
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
+
+[data example](https://datahack.analyticsvidhya.com/contest/all/)
+[data repository](https://datahack.analyticsvidhya.com/contest/all/)
 
 ---
 
 #### <a name="qtl"></a>[Qandl](https://www.quandl.com/)
-{Add description of data here}
 
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
+
+[data example](https://www.quandl.com/)
+[data repository](https://www.quandl.com/)
 
 ---
 
 #### <a name="qtl"></a>[Past KDD Cups](http://www.kdd.org/kdd-cup)
-{Add description of data here}
 
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
+
+[data example](http://www.kdd.org/kdd-cup)
+[data repository](http://www.kdd.org/kdd-cup)
 
 ---
 
 #### <a name="qtl"></a>[Driven Data](https://www.drivendata.org/)
-{Add description of data here}
 
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
+
+[data example](https://www.drivendata.org/)
+[data repository](https://www.drivendata.org/)
 
 ---
 
