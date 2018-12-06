@@ -1,107 +1,23 @@
 ---
 layout: frontpage
-title: Wang Peiyu
+title: More Figures
 ---
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/Wang_Peiyu_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/oliviapy960825">github</a></li>
-          <li><a href="">blog</a></li>
-          <li><a href="https://www.linkedin.com/in/peiyu-w-a2a804126/">linkedin</a></li>
+          <li><a href="pic_12.html">prev</a></li>
+          <li><a href="pic_1.html">next</a></li>
       </ul>
   </div>
 </div>
-### <a name="Portfolio"></a>Portfolio
-<table class="wide">
-<tr>
-  <td class="left">
-    <a href="pages/publpics/rqtlexper_fig1.html">
-        <img src="assets/publpics/rqtlexper_fig1.png" alt="Broman (2014) Fig 1" title="Broman (2014) Fig 1"/>
-    </a>
-  </td>
-  <td class="right">
-    <a href="pages/publpics/rqtlexper_fig2.html">
-        <img src="assets/publpics/rqtlexper_fig2.png" alt="Broman (2014) Fig 2" title="Broman (2014) Fig 2"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td class="left">
-    <a href="pages/publpics/phyloqtl_fig6.html">
-        <img src="assets/publpics/phyloqtl_fig6.png" alt="Broman et al. (2012) Fig 6" title="Broman et al. (2012) Fig 6"/>
-    </a>
-  </td>
-  <td class="right">
-    <a href="pages/publpics/phyloqtl_fig2.html">
-        <img src="assets/publpics/phyloqtl_fig2.png" alt="Broman et al. (2012) Fig 2" title="Broman et al. (2012) Fig 2"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td class="left">
-    <a href="pages/publpics/rigenome_fig2.html">
-        <img src="assets/publpics/rigenome_fig2.png" alt="Broman (2005) Fig 2" title="Broman (2005) Fig 2"/>
-    </a>
-  </td>
-  <td class="right">
-    <a href="pages/publpics/rigenome_fig6.html">
-        <img src="assets/publpics/rigenome_fig6.png" alt="Broman (2005) Fig 6" title="Broman (2005) Fig 6"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td class="left">
-    <a href="pages/publpics/inversion_fig1.html">
-        <img src="assets/publpics/inversion_fig1.png" alt="Broman et al. (2003) Fig 1" title="Broman et al. (2003) Fig 1"/>
-    </a>
-  </td>
-  <td class="right">
-    <a href="pages/publpics/preCCprob_tabS13.html">
-        <img src="assets/publpics/preCCprob_tabS13.png" alt="Broman (2012) Table S13" title="Broman (2012) Table S13"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td class="left">
-    <a href="pages/publpics/inversion_fig2.html">
-        <img src="assets/publpics/inversion_fig2.png" alt="Broman et al. (2003) Fig 2" title="Broman et al. (2003) Fig 2"/>
-    </a>
-  </td>
-  <td class="right">
-    <a href="pages/publpics/interfer_fig1.html">
-        <img src="assets/publpics/interfer_fig1.png" alt="Broman and Weber (2000) Fig 1" title="Broman and Weber (2000) Fig 1"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td class="left">
-    <a href="pages/publpics/xchr_fig2.html">
-        <img src="assets/publpics/xchr_fig2c.png" alt="Broman et al. (2006) Fig 2c" title="Broman et al. (2006) Fig 2c"/>
-    </a>
-  </td>
-  <td class="right">
-    <a href="pages/publpics/mousebc_fig3.html">
-        <img src="assets/publpics/mousebc_fig3.png" alt="Broman et al. (2002) Fig 3" title="Broman et al. (2002) Fig 3"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td class="left">
-    <a href="pages/publpics/geneticmaps_fig3.html">
-        <img src="assets/publpics/geneticmaps_fig3a.png" alt="Broman et al. (1998) Fig 3a" title="Broman et al. (1998) Fig 3a"/>
-    </a>
-  </td>
-  <td class="right">
-  </td>
-</tr>
-</table>
-
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="index.html">back</a></li>
-      </ul>
-  </div>
-</div>
+[![Plot for Case Number](../../assets/publpics/pic_8.png)] <br />
+[![Plot for Word Count](../../assets/publpics/pic_9.png)] <br />
+[![Plot for Weights](../../assets/publpics/pic_11.png)] <br />
+[![Univariate Feature Selection](../../assets/publpics/pic_11.png)] <br />
+[![Scatterplot Against Both Training and Testing Data](../../assets/publpics/pic_13.png)] <br />
+[![Residual Plot Against Both Training and Testing Data](../../assets/publpics/pic_14.png)] <br />
+[![2-D PCA on Standardized Data](../../assets/publpics/pic_15.png)] <br />
+[![Plot of the Reconstructed Data](../../assets/publpics/pic_16.png)] <br />
+[![Plot of the 10 Nearest Neighbor](../../assets/publpics/pic_17.png)] <br />  
+[Example Code](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/6992_Project.ipynb)
