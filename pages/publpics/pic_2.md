@@ -19,5 +19,5 @@ Principal Component Analysis (PCA) applied to this data identifies the combinati
 
 Linear Discriminant Analysis (LDA) tries to identify attributes that account for the most variance between classes. In particular, LDA, in contrast to PCA, is a supervised method, using known class labels.
 
-[PCA & LDA Example](../../assets/publpics/pic_2.png) <br />
+[![PCA & LDA Example](../../assets/publpics/pic_2.png)] <br />
 [PCA & LDA 2D Projection Example Code](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/6992_Project.ipynb)

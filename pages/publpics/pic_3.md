@@ -17,8 +17,8 @@ A violin plot is a method of plotting numeric data. It is similar to a box plot 
 
 A violin plot has four layers. The outer shape represents all possible results, with thickness indicating how common. (Thus the thickest section represents the mode average.) The next layer inside represents the values that occur 95% of the time. The next layer (if it exists) inside represents the values that occur 50% of the time. The central dot represents the median average value.
 
-[Violin Plot Example for Case Number](../../assets/publpics/pic_3.png) <br />
-[Violin Plot Example for Word Count](../../assets/publpics/pic_4.png) <br />
-[Violin Plot Example for Outcome](../../assets/publpics/pic_5.png)] <br />
-[Violin Plot Example for Weights](../../assets/publpics/pic_6.png)] <br />
+[![Violin Plot Example for Case Number](../../assets/publpics/pic_3.png)]<br />
+[![Violin Plot Example for Word Count](../../assets/publpics/pic_4.png)] <br />
+[![Violin Plot Example for Outcome](../../assets/publpics/pic_5.png)]] <br />
+[![Violin Plot Example for Weights](../../assets/publpics/pic_6.png)]] <br />
 [Violin Plot Example Code](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/6992_Project.ipynb)
