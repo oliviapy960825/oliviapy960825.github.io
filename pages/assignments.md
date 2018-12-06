@@ -11,8 +11,8 @@ description: Wang Peiyu's assignments
             <li><a href="#Assignment1">Assignment1</a></li>
             <li><a href="#Assignment2">Assignment2</a></li>
             <li><a href="#Assignment3">Assignment3</a></li>
-            <li><a href="#Assignment4">Assignment4</a></li>
-            <li><a href="#ExtraCredit">Extra Credit Assignment</a></li>
+            <li><a href="#Assignment4">Extra Lab</a></li>
+            <li><a href="#ExtraCredit">Extra Lab2</a></li>
             <li><a href="#labassignments">Lab Assignments</a></li>
         </ul>
     </div>
@@ -54,7 +54,7 @@ Results | Research Proposal
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| <a href="https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/HW2.ipynb">Assignment2</a>| [assignment2 repositiory]()|
+| <a href="https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW2.ipynb">Assignment2</a>| <a href="https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/HW2.ipynb">[assignment2 repositiory]</a>|
 
 ---
 
@@ -74,7 +74,7 @@ Results | Research Proposal
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| <a href="https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/HW3.ipynb">Assignment3 </a>| <a href="https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/HW3.ipynb">Assignment3 Repository </a>|
+| <a href="https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW3.ipynb">Assignment3 </a>| <a href="https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/HW3.ipynb">Assignment3 Repository </a>|
 
 ---
 
