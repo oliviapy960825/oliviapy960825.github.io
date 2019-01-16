@@ -20,15 +20,20 @@ description: Student's Courses
 
 #### [Programming for Analytics](http://www2.seas.gwu.edu/~bhagiweb/emse6574/) (EMSE 6574; Fall, 2018)
 - [Site](http://www2.seas.gwu.edu/~bhagiweb/emse6574/)
+- [Assignments](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Programming%20for%20Analytics)
+- [Final Project](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Programming%20for%20Analytics/project)
+
 
 #### [Data Analysis for Eng & Sci](https://www2.seas.gwu.edu/~dorpjr/EMSE271/Coursefiles.html) (EMSE 6765; Fall, 2018)
 - [Site](https://www2.seas.gwu.edu/~dorpjr/EMSE271/Coursefiles.html)
+- [Linear Regression Project](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Data%20Analysis%20for%20Eng%20%26%20Sci/Linear%20Regression%20Project)
+- [PCA Project](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Data%20Analysis%20for%20Eng%20%26%20Sci/PCA%20Project)
 
 #### [Data Analytics Introduction and Practicum](http://bsharvey.github.io) (EMSE 6992; Fall, 2018)
 
 - [Site](https://oliviapy960825.github.io/)
 - [My Portfolio](https://oliviapy960825.github.io/)
-- [Assignments](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments)
+- [Assignments](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Data%20Analytics%20Introduction%20and%20Practicum)
 - [Labs](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs)
 
 ---
