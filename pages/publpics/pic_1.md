@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Feature Selection Example
+title: Feature Histogram Example
 ---
 
 <div class="navbar">
@@ -11,8 +11,8 @@ title: Feature Selection Example
   </div>
 </div>
 
-[Feature Selection](https://scikit-learn.org/stable/modules/feature_selection.html)
- A Python package. The classes in the sklearn.feature_selection module can be used for feature selection/dimensionality reduction on sample sets, either to improve estimators’ accuracy scores or to boost their performance on very high-dimensional datasets.
+[Feature Histogram](https://realpython.com/python-histograms/)
+ A histogram is a great tool for quickly assessing a probability distribution that is intuitively understood by almost any audience.
 
-[![Feature Selection Example](../../assets/publpics/pic_1.png)] <br />
-[Feature Selection Example Code](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/6992_Project.ipynb)
+[![Feature Histogram Example](../../assets/publpics/pic_1.png)] <br />
+[Feature Histogram Example Code](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/Programming%20for%20Analytics/project/Project-Logistic%20Regression.ipynb)
