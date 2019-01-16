@@ -22,7 +22,7 @@ keywords: statistics, data analytics
 <tr>
   <td class="left">
     <a href="pages/publpics/pic_1.html">
-        <img src="assets/publpics/pic_1.png" alt="Feature Concatenating example" title="Feature Concatenating example"/>
+        <img src="assets/publpics/pic_1.png" alt="Feature Histogram example" title="Feature Histogram example"/>
     </a>
   </td>
   <td class="right">
