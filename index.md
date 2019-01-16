@@ -27,7 +27,7 @@ keywords: statistics, data analytics
   </td>
   <td class="right">
     <a href="pages/publpics/pic_2.html">
-        <img src="assets/publpics/pic_2.png" alt="PCA_LDA" title="PCA_LDA"/>
+        <img src="assets/publpics/pic_2.png" alt="3D Visualization" title="3D Visualization"/>
     </a>
   </td>
 </tr>

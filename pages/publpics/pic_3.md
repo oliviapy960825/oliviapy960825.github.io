@@ -21,4 +21,4 @@ A violin plot has four layers. The outer shape represents all possible results, 
 [![Violin Plot Example for Word Count](../../assets/publpics/pic_4.png)] <br />
 [![Violin Plot Example for Outcome](../../assets/publpics/pic_5.png)]] <br />
 [![Violin Plot Example for Weights](../../assets/publpics/pic_6.png)]] <br />
-[Violin Plot Example Code](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/6992_Project.ipynb)
+[Violin Plot Example Code](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/Data%20Analytics%20Introduction%20and%20Practicum/6992_Project.ipynb)
