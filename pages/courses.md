@@ -67,7 +67,7 @@ description: Student's Courses
 #### Service and Operation Management (BUAD306; Spring, 2017)
 ---
 #### [General Computer Science for Engineers](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/General%20Computer%20Science%20for%20Engineers) (CISC106; Spring, 2017)
-- [Assignments & Projects](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/General%20Computer%20Science%20for%20Engineers)
+* [Assignments & Projects](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/General%20Computer%20Science%20for%20Engineers)
 ---
 
 #### [Introduction to Computer Science II](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Introduction%20to%20Computer%20Science%20II) (CISC181; Spring, 2017)
