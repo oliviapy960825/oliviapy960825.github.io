@@ -1,0 +1,16 @@
+The text file contains my first initial and my last name
+
+echo "first-github-assignment-oliviapy960825" >> textfile1.text
+
+==>After you use this command line to create the 4 text files, they will first be untracked
+
+
+git add textfile1.txt
+
+==>After you use this command line to add all the 4 text files, they will be tracked and ready to be committed,
+and when you modify the content of textfile1.txt after this command line, it will appear as modified
+
+
+git commit -am "new text files added"
+
+==>After you use this command line to commit all the 4 text files, they will all be committed/staged and ready to be pushed to the online repo/github
