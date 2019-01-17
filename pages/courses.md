@@ -68,6 +68,7 @@ description: Student's Courses
 ---
 #### General Computer Science for Engineers (CISC106; Spring, 2017)
 - [Assignments & Projects](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/General%20Computer%20Science%20for%20Engineers)
+---
 #### Introduction to Computer Science II (CISC181; Spring, 2017)
 - [Assignments & Projects](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Introduction%20to%20Computer%20Science%20II)
 #### Business Telecommunication Networks (CISC250; Spring, 2017)
