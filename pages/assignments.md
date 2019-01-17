@@ -8,18 +8,18 @@ description: Wang Peiyu's assignments
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#Assignment1">Assignment1</a></li>
-            <li><a href="#Assignment2">Assignment2</a></li>
-            <li><a href="#Assignment3">Assignment3</a></li>
-            <li><a href="#Assignment4">Extra Lab</a></li>
-            <li><a href="#ExtraCredit">Extra Lab2</a></li>
-            <li><a href="#labassignments">Lab Assignments</a></li>
+            <li><a href="#DataAnalyticsIntroductionAndPracticum">Data Analytics Introduction and Practicum Assignments & Projects</a></li>
+            <li><a href="#ProgrammingForAnalytics">Programming For Analytics Assignments & Projects</a></li>
+            <li><a href="#DataAnalysisForEngNSci">Data Analysis for Eng & Sci Assignments & Projects</a></li>
+            <li><a href="#Algorithms">Design and Analysis of Algorithms Assignments & Projects</a></li>
+            <li><a href="#DBMSForDataAnalytics">DBMS For Data Analytics Assignments & Projects</a></li>
+            <li><a href="#AppliedMachineLearningForAnalytics">Applied Machine Learning For Analytics Assignments & Projects</a></li>
         </ul>
     </div>
 </div>
 
 
-### EMSE 6992 Assignments
+### <a name="DataAnalyticsIntroductionAndPracticum"></a> EMSE 6992 Assignments
 ####  <a name="Assignment1"></a>Assignment1
 ##### <a name="datamanipulationandaggregation"></a>data maniuplation and aggregation
 * [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_eda/lab3.ipynb)
@@ -169,6 +169,24 @@ Modules: preprocessing, feature extraction.
 * [Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_networks_graphs/lab_9.ipynb)
 * [MapReduce](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_mapreduce/lab8_mapreduce.ipynb)
 
+</br>
 
+### <a name="ProgrammingForAnalytics"></a> EMSE 6574 Assignments & Projects
+* [List, List Comprehensions, Dictionary, Function, Class](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/Programming%20for%20Analytics/%7BWang%20Peiyu%7D%20%E2%80%93%20Assignment_01_Submission.ipynb)
+* [Numpy Array](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/Programming%20for%20Analytics/%7BWang_Peiyu%7D%20%E2%80%93%20Assignment_02_Submission.ipynb)
+* [DataFrame, Nan handling, Graph Plotting, Data Processing](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/Programming%20for%20Analytics/%7BWang%20Peiyu%7D%20%E2%80%93%20Assignment_03_Submission.ipynb)
+* [Midterm Take-home Exam](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/Programming%20for%20Analytics/%7BWang_Peiyu%7D%20%E2%80%93%20Midterm_Submission.ipynb)
+* [Final Project: General/Logistic Regression/Decision Tree Analysis based on Adult Census Income Data](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Programming%20for%20Analytics/project)
+</br>
 
+### <a name="DataAnalysisForEngNSci"></a> EMSE 6765 Assignments & Projects
+* [Linear Regression Project with Minitab & Excel](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Data%20Analysis%20for%20Eng%20%26%20Sci/Linear%20Regression%20Project)
+* [PCA Project with Minitab & Excel](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Data%20Analysis%20for%20Eng%20%26%20Sci/PCA%20Project)
+</br>
+
+### <a name="Algorithms"></a> CS 6212 Assignments & Projects
+
+### <a name="DBMSForDataAnalytics"></a> EMSE 6586 Assignments & Projects
+
+### <a name="AppliedMachineLearningForAnalytics"></a> EMSE 6992-11 Assignments & Projects
 ---
