@@ -67,11 +67,11 @@ description: Student's Courses
 #### Service and Operation Management (BUAD306; Spring, 2017)
 ---
 #### General Computer Science for Engineers (CISC106; Spring, 2017)
-* [Assignments & Projects](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/General%20Computer%20Science%20for%20Engineers)
+- [Assignments & Projects](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/General%20Computer%20Science%20for%20Engineers)
 #### Introduction to Computer Science II (CISC181; Spring, 2017)
-* [Assignments & Projects](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Introduction%20to%20Computer%20Science%20II)
+- [Assignments & Projects](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Introduction%20to%20Computer%20Science%20II)
 #### Business Telecommunication Networks (CISC250; Spring, 2017)
-* [Assignments & Projects](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Business%20Telecommunication%20Networks/cisc250)
+- [Assignments & Projects](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Business%20Telecommunication%20Networks/cisc250)
 ---
 #### Introduction to Social & Cultural Anthropology (ANTH101; Summer, 2017)
 ---
@@ -82,13 +82,13 @@ description: Student's Courses
 #### Data Analysis and Quality Control (BUAD447; Fall, 2017)
 ---
 #### Data Structure (CISC220; Fall, 2017)
-* [Class Website](https://www.eecis.udel.edu/~yarringt/CISC220/)
-* [Assignments & Projects](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Data%20Structure)
+- [Class Website](https://www.eecis.udel.edu/~yarringt/CISC220/)
+- [Assignments & Projects](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Data%20Structure)
 ---
 #### Business Applications in Development II (MISY350; Fall, 2017)
-* [Assignments & Projects](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Business%20Applications%20in%20Development%20II)
-* [In-class Exercise](https://github.com/oliviapy960825/misy350-inclass-exercises)
-* [Group Project](https://github.com/oliviapy960825/group-project)
+- [Assignments & Projects](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Business%20Applications%20in%20Development%20II)
+- [In-class Exercise](https://github.com/oliviapy960825/misy350-inclass-exercises)
+- [Group Project](https://github.com/oliviapy960825/group-project)
 ---
 #### Systems Analysis & Implementations (MISY430; Fall, 2017)
 ---
@@ -103,8 +103,8 @@ description: Student's Courses
 #### Machine Organization & Assembly Language (CISC260; Spring, 2018)
 ---
 #### Introduction to Software Engineering (CISC275; Spring, 2018)
-* [Assignments & Projects](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Introduction%20to%20Software%20Engineering)
-* [Group Project](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Introduction%20to%20Software%20Engineering/estuary-team-10-8-master)
+- [Assignments & Projects](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Introduction%20to%20Software%20Engineering)
+- [Group Project](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Introduction%20to%20Software%20Engineering/estuary-team-10-8-master)
 ---
 #### MIS Project Management (MISY431; Spring, 2018)
 ---
