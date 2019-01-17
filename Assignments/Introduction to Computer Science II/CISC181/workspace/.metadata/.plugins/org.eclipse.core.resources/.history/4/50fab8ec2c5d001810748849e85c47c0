@@ -1,0 +1,9 @@
+package First;
+
+public class MyStepper {
+int state=0;
+int step;
+public MyStepper(int step){
+	this.step=step;
+}
+}

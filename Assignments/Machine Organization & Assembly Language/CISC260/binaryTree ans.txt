@@ -1,0 +1,119 @@
+
+.text
+main:
+	ldr r0, =InFileName
+	mov r1, #0
+	swi 0x66		
+	ldr r1, =InFileHandle
+	str r0, [r1]
+	swi 0x6c	
+	mov r1, r0    
+	mov r0, #12
+	mov r2, #0
+	swi 0x12
+	str r1, [r0]
+	str r2, [r0, #4]
+	str r2, [r0, #8]
+	str r0, =MyTree
+    Loop:
+	ldr r1, =InFileHandle
+	ldr r0, [r1]
+	swi 0x6c	
+	bcs CloseF	
+
+	mov r1, r0    
+	mov r0, #12
+	mov r2, #0
+	swi 0x12
+	str r1, [r0]
+	str r2, [r0, #4]
+	str r2, [r0, #8]
+	
+	mov r1, r0
+	ldr r0, =MyTree
+	
+    BL Insert
+	B Loop
+
+    CloseF:
+	ldr r0, =InFileHandle
+	ldr r0, [r0]
+	swi 0x68	
+
+	ldr r0, =MyTree 
+	BL PrintTree  
+
+exit:	SWI 0x11     
+
+Insert:
+	ldr r2, [r0] 
+	ldr r3, [r1]
+	cmp r2, r3
+	blt ELSE 	
+	ldr r4, [r0, #4] 
+	cmp r4, #0		 
+	bne CALLBACK		 
+	str r1, [r0, #4]
+	b RETURN
+	
+ELSE: 			 
+	ldr r4, [r0, #8] 
+	cmp r4, #0		
+	bne CALLBACK		 
+	str r1, [r0, #8] 
+	b RETURN 
+	
+CALLBACK: 
+	mov r0, r4	
+	b Insert	
+	
+RETURN:
+	mov pc, lr 
+	
+PrintTree:
+	ldr r1, [r0, #4] 
+	cmp r1, #0		 
+	beq	PRINT		
+	sub sp,sp,#8 
+	str lr, [sp]
+	str r0, [sp, #4]
+	
+	mov r0, r1		
+	bl PrintTree
+	
+	ldr lr, [sp]
+	ldr r0, [sp, #4]
+	add sp, sp, #8
+	
+PRINT:
+	ldr r1, [r0]    
+	mov r2, r0	
+	mov r0, #1    
+	swi 0x6b       
+	mov r0, #1
+	ldr	r1, =Space
+	swi	0x69    
+	mov r0, r2	
+	ldr r1, [r0, #8] 
+	cmp r1, #0		 
+	beq	BACK	 
+	
+	sub sp,sp,#8
+	str lr, [sp]
+	str r0, [sp, #4]
+	
+	mov r0, r1		
+	bl PrintTree
+	
+	ldr lr, [sp]	
+	ldr r0, [sp, #4]
+	add sp, sp, #8
+	
+BACK:
+	mov pc, lr 
+		
+.data
+MyTree: .word 0
+InFileName: .asciz "list.txt"
+InFileHandle: .word 0
+Space: .ascii " "

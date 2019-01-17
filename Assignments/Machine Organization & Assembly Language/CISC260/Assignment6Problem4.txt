@@ -1,0 +1,51 @@
+#include <stdio.h>
+
+int funct(int x) {
+ if (x <= 0) return 0;
+ else if (x & 0x1) {
+ return x + funct(x-1);
+ } else {
+ return x - funct(x-1);
+ } 
+}
+
+
+int funct1(int x, int total, int state) {
+ if ((x & 0x1) && state == 0){
+     state = 1;
+ }
+ if (~(x & 0x1) && state == 0){
+     state = 2;
+ }
+ 
+ if (x <= 0) return total;
+ 
+ 
+ else if (state == 1) {
+    return funct1(x-1,total+x-1,2);
+ }
+ else if (state == 2) {
+    return funct1(x-1,total-x+1,3);
+ }
+ else if (state == 3) {
+    return funct1(x-1,total-x+1,4);
+ }
+ else if (state == 4) {
+    return funct1(x-1,total+x-1,1);
+ }
+ 
+ 
+}
+
+int main()
+{
+    int n = 11;
+    int result;
+    result = funct1(n,n,0);
+    printf("result 1 %d\n",result);
+    
+    result = funct(n);
+    printf("result 2 %d",result);
+
+    return 0;
+}

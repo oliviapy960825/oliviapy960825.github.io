@@ -169,6 +169,7 @@ Modules: preprocessing, feature extraction.
 * [Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_networks_graphs/lab_9.ipynb)
 * [MapReduce](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_mapreduce/lab8_mapreduce.ipynb)
 
+---
 
 ### <a name="ProgrammingForAnalytics"></a> Programming For Analytics Assignments & Projects
 * [List, List Comprehensions, Dictionary, Function, Class](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/Programming%20for%20Analytics/%7BWang%20Peiyu%7D%20%E2%80%93%20Assignment_01_Submission.ipynb)
@@ -177,15 +178,21 @@ Modules: preprocessing, feature extraction.
 * [Midterm Take-home Exam](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/Programming%20for%20Analytics/%7BWang_Peiyu%7D%20%E2%80%93%20Midterm_Submission.ipynb)
 * [Final Project: General/Logistic Regression/Decision Tree Analysis based on Adult Census Income Data](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Programming%20for%20Analytics/project)
 
+---
 
 ### <a name="DataAnalysisForEngNSci"></a> Data Analysis for Eng & Sci Assignments & Projects
 * [Linear Regression Project with Minitab & Excel](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Data%20Analysis%20for%20Eng%20%26%20Sci/Linear%20Regression%20Project)
 * [PCA Project with Minitab & Excel](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Data%20Analysis%20for%20Eng%20%26%20Sci/PCA%20Project)
 
+---
 
 ### <a name="Algorithms"></a> Design and Analysis of Algorithms Assignments & Projects
 
+---
+
 ### <a name="DBMSForDataAnalytics"></a> DBMS For Data Analytics Assignments & Projects
+
+---
 
 ### <a name="AppliedMachineLearningForAnalytics"></a> Applied Machine Learning For Analytics Assignments & Projects
 ---

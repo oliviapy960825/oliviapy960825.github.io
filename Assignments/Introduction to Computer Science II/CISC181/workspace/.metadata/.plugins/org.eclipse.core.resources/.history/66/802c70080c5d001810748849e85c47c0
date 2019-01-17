@@ -1,0 +1,19 @@
+
+public class Cat {
+int legs;
+double weight;
+String name;
+public Cat(int legs, double weight, String name){
+	this.legs=legs;
+	this.weight=weight;
+	this.name=name;
+}
+public Cat(String name, double weight){
+	this.name=name;
+	this.weight=weight;
+}
+public Cat(String name, int legs){
+	this.name=name;
+	this.legs=legs;
+}
+}

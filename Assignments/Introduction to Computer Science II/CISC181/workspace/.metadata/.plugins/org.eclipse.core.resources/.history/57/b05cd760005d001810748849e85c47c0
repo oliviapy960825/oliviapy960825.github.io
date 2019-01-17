@@ -1,0 +1,23 @@
+
+public class Main {
+public static void main(String[] args){
+	final int LENGTH=670;//size of data set to go into array;
+	final int NUMS_PER_ROW=30;//numbers per row when printed
+	
+	//declare an array to hold the integer data set
+	int[] intArray =new int[LENGTH];
+	//Initialize arrat to the multiples of four {0,4,8,...}
+	for(int i=0; i<LENGTH; i++){
+		intArray[i]=i*4;
+	}
+	
+	//Print the array with NUMS_PER_ROW element per row; last row may have fewer.
+	
+	for(int i=0; i<LENGTH/NUMS_PER_ROW; i++){
+		for(int j=0; j< NUMS_PER_ROW;j++){
+			System.out.print(intArray[j*NUMS_PER_ROW+i]+" ");
+		}
+		System.out.println();
+	}
+}
+}

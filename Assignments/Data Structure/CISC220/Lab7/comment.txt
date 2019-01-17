@@ -1,0 +1,26 @@
+My favorite 6 resulting phrases created:
+
+Congratulations! Today is too, too small. "I'm the hat. 'i will go though 
+would not, could you, Sam-I-am. Would you wish, with me. With banner 
+two Things and i can be, perhaps, for fun to play against 
+he spoke with a game that cold, in style, said the feast! 
+go! they have my brothers and footsy as long must we know, 
+who was not like to the secrets I got a mistletoe wreath. 
+
+The collisions recorded:
+
+The first output text file, I used hashing function 1 and collision handling function 1,
+and the number of original collision using hashing function 1 is 1405, and the number of 
+the secondary collisions using collision handling function 1 is 1356
+
+The second output text file, I used hashing function 1 and collision handling function 2,
+and the number of original collision using hashing function 1 is 1402, and the number of 
+the secondary collisions using collision handling function 2 is 988
+
+The third output text file, I used hashing function 2 and collision handling function 1, 
+and the number of original collision using hashing function 2 is 3957, and the number of 
+the secondary collisions using collision handling function 1 is 3203312
+
+The fourth output text file, I used hashing function 2 and collision handling function 2,
+and the number of original collision using hashing function 2 is 4174, and the number of 
+the secondary collisions using collision handling function 2 is 40522

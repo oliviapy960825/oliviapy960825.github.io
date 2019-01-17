@@ -1,0 +1,11 @@
+package Second;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Weasel {
+public String name;
+public static void main(String[] args){
+	List<Weasel> herd=new ArrayList<>();
+}
+}

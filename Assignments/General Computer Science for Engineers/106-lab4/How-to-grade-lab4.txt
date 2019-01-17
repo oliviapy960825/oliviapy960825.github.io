@@ -1,0 +1,37 @@
+How to grade lab 4:
+
+Download "test.m" and each student's files in a separate directory, and then run the script "test.m" to run all at once.
+
+1) Each problem is worth 10pts.
+
+2) -2 points for each file uploaded to Sakai is not named as specified on the lab 4 document.
+
+3) For problem 1-2, check the student's script files and verify the validity of the commands.
+Run the script files and check that the output matches the vectors/matrices that are asked.
+
+4) For problem 3, check the student's script file and verify the validity of the commands.
+Verify the inverse array against the answer provided and the last command printed the identify matrix.
+If inv() is used, no points!
+
+5) For problem 4-6, 
+a) 70% for correctness and 30% for docs.
+b) -2 points for incorrect function name.
+c) -2 points for incorrect parameter(s).
+d) for problem 4, if a loop is used, no points (or partial points based on your judgement).
+
+Problem 4:
+run seqSum(1,5) and verify that the answer is 2.2833.
+run seqSum(2,5) and verify that the answer is 4.5667.
+
+Problem 5:
+run smallerThanN([1 2 3 4 5], 3) and verify that the answer is [1 2]
+run smallerThanN([10 5 2 1 7], 3) and verify that the answer is [2 1]
+
+Problem 6:
+run narcissisticNumbers() and verify that the numbers it returned are 370 and 371.
+
+
+6) For problem 7-8, 
+a) check the student's script files and verify the validity of the commands
+b) visually verify that the graph appears correct.
+

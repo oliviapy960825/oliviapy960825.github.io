@@ -1,0 +1,98 @@
+<project name="5things-serialization" default="test">
+
+    <target name="init">
+        <mkdir dir="classes" />
+    </target>
+    
+    <target name="runSerializeToDisk" depends="init">
+        <copy file="original/Person.java" tofile="src/com/tedneward/Person.java" overwrite="true"/>
+        <javac srcdir="src" destdir="classes" />
+        <java classname="SerializeToDisk" classpath="./classes" >
+            <arg value="basedata.ser" />
+        </java>
+    </target>
+    
+    <target name="runWriteV1ReadV2" depends="init">
+        <!-- First copy in V1 of Person -->
+        <copy file="versioning/V1/Person.java" tofile="src/com/tedneward/Person.java" overwrite="true"/>
+        <javac srcdir="src" destdir="classes"/>
+        <!-- Now run a serialization utility to serialize the V1 to v1data.ser-->
+        <java classname="Serialize" classpath="./classes">
+            <arg value="v1data.ser" />
+        </java>
+        <!-- Now copy in V2 of Person -->
+        <copy file="versioning/V2/Person.java" tofile="src/com/tedneward/Person.java" overwrite="true"/>
+        <javac srcdir="src" destdir="classes" />
+        <!-- Now run the deserialization utility to read the serialized V1 data from v1data.ser-->
+        <java classname="Deserialize" classpath="./classes">
+            <arg value="v1data.ser" />
+        </java>
+    </target>
+
+    <target name="runWriteV2ReadV1" depends="init">
+        <!-- First copy in V1 of Person -->
+        <copy file="versioning/V2/Person.java" tofile="src/com/tedneward/Person.java" overwrite="true" />
+        <javac srcdir="src" destdir="classes" />
+        <!-- Now run a serialization utility to serialize the V2 to v2data.ser-->
+        <java classname="Serialize" classpath="./classes">
+            <arg value="v2data.ser" />
+        </java>
+        <!-- Now copy in V1 of Person -->
+        <copy file="versioning/V1/Person.java" tofile="src/com/tedneward/Person.java" overwrite="true" />
+        <javac srcdir="src" destdir="classes" />
+        <!-- Now run the deserialization utility to read the serialized V2 data from v1data.ser-->
+        <java classname="Deserialize" classpath="./classes">
+            <arg value="v2data.ser" />
+        </java>
+    </target>
+
+    <target name="hookSerialization" depends="init">
+        <copy file="obscured/Person.java" tofile="src/com/tedneward/Person.java" overwrite="true" />
+        <javac srcdir="src" destdir="classes" />
+        <java classname="SerializeToDisk" classpath="./classes" >
+            <arg value="obscureddata.ser" />
+        </java>
+    </target>
+    
+    <target name="replaceResolve" depends="init">
+        <copy file="replaceresolve/Person.java" tofile="src/com/tedneward/Person.java" overwrite="true" />
+        <javac srcdir="src" destdir="classes" />
+        <java classname="SerializeToDisk" classpath="./classes" >
+            <arg value="replaceddata.ser" />
+        </java>
+    </target>
+    
+    <target name="fieldByField" depends="init">
+        <copy file="fbyf/Person.java" tofile="src/com/tedneward/Person.java" overwrite="true" />
+        <javac srcdir="src" destdir="classes" />
+        <java classname="SerializeToDisk" classpath="./classes" >
+            <arg value="fbyfdata.ser" />
+        </java>
+    </target>
+    <!-- 
+    <target name="run" depends="build">
+        <java classname="com.tedneward.scala.demonstration.App"
+              classpath="./classes">
+        </java>
+    </target>
+    
+    <target name="test" depends="build">
+        <junit printsummary="yes" fork="yes" haltonfailure="yes">
+            <classpath>
+                <pathelement location="./classes"/>
+            </classpath>
+            <formatter type="plain"/>
+            <test name="SerTest"/>
+        </junit>
+    </target>
+    -->
+    
+    
+    <target name="clean">
+        <delete dir="classes" />
+        <delete>
+            <fileset dir="." includes="**/*.ser"/>
+        </delete>
+    </target>
+  
+</project>

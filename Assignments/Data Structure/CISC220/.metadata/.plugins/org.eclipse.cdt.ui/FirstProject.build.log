@@ -1,0 +1,14 @@
+10:47:09 **** Incremental Build of configuration Debug for project FirstProject ****
+make all 
+Building target: FirstProject
+Invoking: MacOS X C++ Linker
+g++  -o "FirstProject"  ./Hello.o   
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [FirstProject] Error 1
+
+10:47:09 Build Finished (took 482ms)
+

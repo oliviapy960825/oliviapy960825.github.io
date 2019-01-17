@@ -1,0 +1,19 @@
+.img-avatar{
+    width: 200px;
+    height: 200px;
+    border-radius:100%;
+}
+#portfolio.portfolio-item.portfolio-link.caption{
+  max-width: 200px;
+  max-height: 200px;
+}
+.img-fluid{
+  width: 200px;
+  height: 200px;
+}
+header.masthead {
+  padding-top: 100px;
+  padding-bottom: 50px;
+  text-align: center;
+  color: white;
+  background: pink; }

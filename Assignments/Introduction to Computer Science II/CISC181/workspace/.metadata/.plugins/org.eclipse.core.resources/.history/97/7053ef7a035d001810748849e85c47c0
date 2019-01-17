@@ -1,0 +1,8 @@
+
+public class Dog {
+int leg;
+public Dog(int leg){
+	this.leg=leg;
+}
+
+}

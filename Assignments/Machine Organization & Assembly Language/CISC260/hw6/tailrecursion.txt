@@ -1,0 +1,52 @@
+
+.text:
+funcTail:
+mov r3, #0x1
+
+Loop:
+
+Cmp r0, #0
+
+BLE Exit
+
+AND r4, r3, r0
+
+CMP r4, #1
+
+BNE B2
+
+ADD r1, r1, r0          @ a = a + x
+
+SUB r0, r0, #1          @ x = x - 1
+
+BL Loop
+
+Exit:
+
+@mov r0, r1
+@mov r1, r0
+@mov r0, #0 @I tried to print the result (stored in r1) out but failed
+@swi 0x6b
+
+SWI 0x11
+
+
+ 
+
+B2:
+
+ ADD r1, r1, #3          @ a = a + 3
+
+ SUB r1, r1, r0          @ a = a + 3 - x
+
+ SUB r0, r0, #3          @ x = x - 3
+
+ BL Loop
+
+main:
+mov r0, #3
+mov r1, #0
+BL funcTail
+
+swi 0x11
+.end

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
+		<item value="2" key="layout"/>
+		<item value="true" key="group_libraries"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;packageExplorer group_libraries=&quot;1&quot; layout=&quot;2&quot; linkWithEditor=&quot;1&quot; rootMode=&quot;1&quot; workingSetName=&quot;Aggregate for window 1486415413111&quot;&gt;&#x0A;&lt;customFilters userDefinedPatternsEnabled=&quot;false&quot;&gt;&#x0A;&lt;xmlDefinedFilters&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.StaticsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.buildfolder&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.mylyn.java.ui.MembersFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.m2e.MavenModuleFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.subProject&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.FieldsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;/xmlDefinedFilters&gt;&#x0A;&lt;/customFilters&gt;&#x0A;&lt;/packageExplorer&gt;" key="memento"/>
+		<item value="1" key="rootMode"/>
+		<item value="true" key="linkWithEditor"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.dialogs.FilteredTypesSelectionDialog">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History/&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="1|.SF NS Text|11.0|0|COCOA|1|.SFNSText" key="DIALOG_FONT_NAME"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="-32" key="DIALOG_X_ORIGIN"/>
+			<item value="-11" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+	<section name="NewClassWizardPage">
+		<item value="false" key="create_constructor"/>
+		<item value="true" key="create_unimplemented"/>
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item value="true" key="org.eclipse.jdt.ui.typecomment.deprecated"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.typehierarchy.QuickHierarchy">
+		<item value="true" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_USE_PERSISTED_SIZE"/>
+		<item value="300" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_HEIGHT"/>
+		<item value="350" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_WIDTH"/>
+		<item value="false" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_USE_PERSISTED_LOCATION"/>
+	</section>
+	<section name="javadoc">
+		<item value="package" key="access"/>
+		<item value="false" key="noindex"/>
+		<item value="/Users/wangpeiyu/CISC181/workspace/Estuary/javadoc.xml" key="antpath"/>
+		<item value="false" key="nodeprecatedlist"/>
+		<item value="true" key="use"/>
+		<item value="true" key="author"/>
+		<item value="false" key="nodeprecated"/>
+		<item value="false" key="nonavbar"/>
+		<item value="" key="docletpath"/>
+		<item value="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/bin/javadoc" key="javadoc_command_history"/>
+		<item value="1.8" key="source"/>
+		<item value="true" key="version"/>
+		<item value="" key="docletname"/>
+		<item value="true" key="splitindex"/>
+		<item value="true" key="fromStandard"/>
+		<item value="false" key="notree"/>
+		<item value="/Users/wangpeiyu/CISC181/workspace/Estuary/doc" key="destdir"/>
+		<item value="false" key="openinbrowser"/>
+		<section name="projects">
+			<section name="Exam2Review">
+				<item value="/Users/wangpeiyu/CISC181/workspace/Exam2Review/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/Exam2Review/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="lab05-MVC">
+				<item value="/Users/wangpeiyu/CISC181/workspace/lab05-MVC/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/lab05-MVC/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="CISC275lab1">
+				<item value="/Users/wangpeiyu/CISC181/workspace/CISC275lab1/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/CISC275lab1/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="CISC275Exam1Review">
+				<item value="/Users/wangpeiyu/CISC181/workspace/CISC275Exam1Review/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/CISC275Exam1Review/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Exception-Exercise">
+				<item value="/Users/wangpeiyu/CISC181/workspace/Exception-Exercise/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/Exception-Exercise/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="PS0">
+				<item value="/Users/wangpeiyu/CISC181/workspace/PS0/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/PS0/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="PS2">
+				<item value="/Users/wangpeiyu/CISC181/workspace/PS2/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/PS2/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="spring-2018-275-lab-7-10-8-team">
+				<item value="/Users/wangpeiyu/CISC181/workspace/spring-2018-275-lab-7-10-8-team/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/spring-2018-275-lab-7-10-8-team/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="PS1">
+				<item value="/Users/wangpeiyu/CISC181/workspace/PS1/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/PS1/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="PS4">
+				<item value="/Users/wangpeiyu/CISC181/workspace/PS4/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/PS4/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="PS3">
+				<item value="/Users/wangpeiyu/CISC181/workspace/PS3/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/PS3/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="PS6">
+				<item value="/Users/wangpeiyu/CISC181/workspace/PS6/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/PS6/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="PS5">
+				<item value="/Users/wangpeiyu/CISC181/workspace/PS5/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/PS5/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="5things-serialization">
+				<item value="/Users/wangpeiyu/CISC181/workspace/5things-serialization/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/5things-serialization/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="PS7">
+				<item value="/Users/wangpeiyu/CISC181/workspace/PS7/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/PS7/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="iteration">
+				<item value="/Users/wangpeiyu/CISC181/workspace/iteration/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/iteration/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="NewMVC">
+				<item value="/Users/wangpeiyu/CISC181/workspace/NewMVC/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/NewMVC/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="lab_animation">
+				<item value="/Users/wangpeiyu/CISC181/workspace/lab_animation/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/lab_animation/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Estuary">
+				<item value="/Users/wangpeiyu/CISC181/workspace/Estuary/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/Estuary/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="EstuaryAlpha">
+				<item value="/Users/wangpeiyu/CISC181/workspace/EstuaryAlpha/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/EstuaryAlpha/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Turtle">
+				<item value="/Users/wangpeiyu/CISC181/workspace/Turtle.zip_expanded/Turtle/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/Turtle.zip_expanded/Turtle/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="sets">
+				<item value="/Users/wangpeiyu/CISC181/workspace/sets/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/sets/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Turtle_week3_rainbow">
+				<item value="/Users/wangpeiyu/CISC181/workspace/Turtle_week3_rainbow/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/Turtle_week3_rainbow/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="SudokuSolver">
+				<item value="/Users/wangpeiyu/CISC181/workspace/SudokuSolver/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/SudokuSolver/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="gameOver">
+				<item value="/Users/wangpeiyu/CISC181/workspace/Estuary/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/gameOver" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="SudokuSolver_solution">
+				<item value="/Users/wangpeiyu/CISC181/workspace/SudokuSolver_solution/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/SudokuSolver_solution/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Android">
+				<item value="/Users/wangpeiyu/CISC181/workspace/Android/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/Android/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Turtle_week3">
+				<item value="/Users/wangpeiyu/CISC181/workspace/Turtle_week3/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/Turtle_week3/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="FinalExamReview">
+				<item value="/Users/wangpeiyu/CISC181/workspace/FinalExamReview/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/FinalExamReview/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Final Project">
+				<item value="/Users/wangpeiyu/CISC181/workspace/Final Project/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/Final Project/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="midterm2">
+				<item value="/Users/wangpeiyu/CISC181/workspace/midterm2/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/midterm2/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Turtle.zip_expanded">
+				<item value="/Users/wangpeiyu/CISC181/workspace/Turtle.zip_expanded/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/Turtle.zip_expanded/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="spring-2018-275-lab-7-10-8-team-master">
+				<item value="/Users/wangpeiyu/CISC181/workspace/spring-2018-275-lab-7-10-8-team-master/javadoc.xml" key="antpath"/>
+				<item value="/Users/wangpeiyu/CISC181/workspace/spring-2018-275-lab-7-10-8-team-master/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+		</section>
+	</section>
+	<section name="BreadcrumbItemDropDown">
+	</section>
+	<section name="RenameInformationPopup">
+	</section>
+	<section name="ClasspathContainerSelectionPage">
+		<item value="1" key="index"/>
+	</section>
+	<section name="quick_assist_proposal_size">
+		<item value="549" key="size.y"/>
+		<item value="272" key="size.x"/>
+	</section>
+	<section name="BuildPathsPropertyPage">
+		<item value="3" key="pageIndex"/>
+	</section>
+	<section name="JavadocWizardDialog">
+		<item value="600" key="DIALOG_WIDTH"/>
+		<item value="1|.SF NS Text|11.0|0|COCOA|1|.SFNSText" key="DIALOG_FONT_NAME"/>
+		<item value="534" key="DIALOG_HEIGHT"/>
+		<item value="230" key="DIALOG_X_ORIGIN"/>
+		<item value="47" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="NewPackageWizardPage">
+		<item value="false" key="create_package_info_java"/>
+	</section>
+	<section name="completion_proposal_size">
+		<item value="582" key="size.y"/>
+		<item value="272" key="size.x"/>
+	</section>
+	<section name="JavaElementSearchActions">
+	</section>
+</section>

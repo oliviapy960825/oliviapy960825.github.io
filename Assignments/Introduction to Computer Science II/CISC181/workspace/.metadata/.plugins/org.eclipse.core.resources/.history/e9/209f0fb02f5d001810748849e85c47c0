@@ -1,0 +1,12 @@
+package First;
+
+public class Cat2 {
+public String name="Argon";
+public String toString(){return "Neon";}
+public static void printNames(Cat2 c1, Cat2 c2){
+	System.out.println(c1.name+" "+c2.name);
+}
+public static void main(String[] args){
+	Cat2 c1=new Cat2();
+	SubCat s1=new SubCat();}
+}

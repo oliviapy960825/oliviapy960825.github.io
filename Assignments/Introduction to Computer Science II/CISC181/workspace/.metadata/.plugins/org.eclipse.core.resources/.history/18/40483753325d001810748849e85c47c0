@@ -1,0 +1,9 @@
+package Second;
+
+import java.util.HashSet;
+
+public class HashSetSpr2018 {
+public static void main(String[] args){
+	HashSet<Wombat> team=new HashSet<Wombat>();
+}
+}

@@ -1,0 +1,19 @@
+10:52:50 **** Incremental Build of configuration Debug for project Lab6WordHub ****
+make all 
+Building file: ../mainWordHub.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"mainWordHub.d" -MT"mainWordHub.o" -o "mainWordHub.o" "../mainWordHub.cpp"
+../mainWordHub.cpp:22:8: warning: unused variable 'game' [-Wunused-variable]
+        Game *game = new Game("testdic.txt", true);
+              ^
+1 warning generated.
+Finished building: ../mainWordHub.cpp
+ 
+Building target: Lab6WordHub
+Invoking: MacOS X C++ Linker
+g++  -o "Lab6WordHub"  ./AVLTree.o ./Game.o ./LL.o ./NodeL.o ./NodeT.o ./mainWordHub.o   
+Finished building target: Lab6WordHub
+ 
+
+10:52:52 Build Finished (took 1s.596ms)
+

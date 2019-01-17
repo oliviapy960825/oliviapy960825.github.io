@@ -1,0 +1,16 @@
+package First;
+
+public class Wombat2 implements Comparable<Wombat>{
+public int numLegs;
+public String name;
+public Wombat2(String name, int numLegs){
+	this.name=name;
+	this.numLegs=numLegs;
+}
+	@Override
+	public int compareTo(Wombat o) {
+		// TODO Auto-generated method stub
+		return this.name.compareTo(o.name);
+	}
+
+}

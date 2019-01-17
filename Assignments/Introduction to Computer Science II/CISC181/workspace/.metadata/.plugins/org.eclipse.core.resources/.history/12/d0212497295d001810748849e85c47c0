@@ -1,0 +1,7 @@
+package Second;
+
+public class TryCatch {
+public void f1() throws FriedEggException{
+	throw new FriedEggException();
+}
+}

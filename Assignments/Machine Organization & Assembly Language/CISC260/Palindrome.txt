@@ -1,0 +1,48 @@
+.equ Stdout, 1
+.text
+main:
+    ldr r0, =StringToBeCheck
+	mov r1, r0
+	
+Loop:
+    LDRB r2, [r1], #1
+	CMP r2, #0
+	BNE Loop
+	SUB r1, r1, #2
+	BL Pal
+Exit:
+    SWI 0x11
+	
+Pal:
+    mov r0, #Stdout
+    ldr r3,=Yes
+    swi 0x69
+	B Exit
+	
+Again:
+    LDRB r3, [r0]
+	LDRB r4, [r1]
+	CMP r3, r4
+	BNE NotPal
+	CMP r0, r1
+	BEQ Pal
+	BL WasPal
+	
+	B Again
+	
+	
+WasPal:
+    ADD r0, r0, #1
+	SUB r1, r1, #1
+	
+NotPal:
+    mov r0, #Stdout
+    ldr r3,=No
+    swi 0x69
+	B Exit
+		
+.data
+StringToBeCheck: .asciz "mom"
+Yes: .asciz "Palindrome"
+No: .asciz "Not Palindrome"
+	

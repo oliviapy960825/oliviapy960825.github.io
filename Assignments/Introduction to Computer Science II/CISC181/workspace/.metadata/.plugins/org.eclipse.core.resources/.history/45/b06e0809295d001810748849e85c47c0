@@ -1,0 +1,8 @@
+package Pretest;
+import Move;
+
+public class Car implements Move {
+public String move(){
+	return "wheels";
+}
+}

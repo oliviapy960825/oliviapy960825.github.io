@@ -1,0 +1,22 @@
+1. WHAT PRINTS HERE? Be sure you understand!
+Dog.txt     gitquiz.txt            spam.txt           spam2.txt
+
+2. WHAT PRINTS HERE? Be sure you understand!
+dog.txt		gitquiz.txt	spam.txt
+
+3. What is HEAD?
+A branch pointer, it can tell you which branch git is currently on
+
+4. What is master?
+The main branch or the default branch, and the original branch that you will have a copy of when you are creating a new branch
+
+5. In this example, what is feature?
+Another branch, in which another user is making changes to, separated from the main branch(like a copy of the main branch plus the changes the user have made) so that the user can make changes without ruining/damaging the main branch
+
+6. How would you take changes from a branch and apply them to master?
+Git checkout master ?switch to the master branch
+Git merge feature ?now the master branch includes the changes in the feature branch
+
+
+7. How would you remove a branch you no longer need?
+Git branch -d feature

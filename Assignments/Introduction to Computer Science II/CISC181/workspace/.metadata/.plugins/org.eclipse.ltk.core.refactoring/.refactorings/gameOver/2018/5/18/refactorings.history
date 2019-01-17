@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;View 12.08.41 PM.java&apos; to &apos;gameOver/src/(default package)&apos;&#x0A;- Original project: &apos;gameOver&apos;&#x0A;- Destination element: &apos;gameOver/src/(default package)&apos;&#x0A;- Original element: &apos;View 12.08.41 PM.java&apos;" description="Copy file" destination="/src&lt;" element1="src/View 12.08.41 PM.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1525367362286" units="0" version="1.0"/>
+</session>
