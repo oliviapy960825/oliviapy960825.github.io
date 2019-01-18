@@ -47,7 +47,7 @@ description: Student's Courses
 
 ---
 
-#### <a name="old"></a>Former courses
+### <a name="old"></a>Former courses
 #### Managerial Accounting (ACCT208; Fall, 2016)
 ---
 #### Seminar in Composition (ENGL110; Fall, 2016)
