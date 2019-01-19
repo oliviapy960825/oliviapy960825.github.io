@@ -10,7 +10,6 @@ keywords: statistics, data analytics
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/Wang_Peiyu_cv.pdf">cv</a></li>
           <li><a href="https://github.com/oliviapy960825">github</a></li>
-          <li><a href="">blog</a></li>
           <li><a href="https://www.linkedin.com/in/peiyu-w-a2a804126/">LinkedIn</a></li>
       </ul>
   </div>
