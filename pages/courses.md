@@ -36,6 +36,14 @@ description: Student's Courses
 - [Assignments](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Data%20Analytics%20Introduction%20and%20Practicum)
 - [Labs](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs)
 
+
+#### [Design and Analysis of Algorithms]() (CS 6212; Spring, 2019)
+
+
+#### [DBMS For Data Analytics]() (EMSE 6586; Spring, 2019)
+
+
+#### [Applied Machine Learning For Analytics]() (EMSE 6992; Spring, 2019)
 ---
 
 ### <a name="shortcourses"></a>Short courses
