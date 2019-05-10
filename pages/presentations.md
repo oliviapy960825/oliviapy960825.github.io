@@ -19,3 +19,21 @@ description: Wang Peiyu's Presentations in Data Analytics
 [![github](icons16/github-icon.png)](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/Programming%20for%20Analytics/project/Project-Logistic%20Regression.ipynb)<br/>
 &nbsp; &nbsp; &nbsp;
 ---
+
+###  2019
+
+#### EMSE 6586 Final Project: {DBMS For Data Analytics}
+<br/>&nbsp; &nbsp; &nbsp; Slides:
+[![pdf](icons16/pdf-icon.png)](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/DBMS%20for%20Data%20Analytics/Project/EMSE6586.pdf)
+[![github](icons16/github-icon.png)](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/DBMS%20for%20Data%20Analytics/Project)<br/>
+&nbsp; &nbsp; &nbsp;
+
+
+#### CS 6212 Final Project: {Design and Analysis of Algorithms}
+<br/>&nbsp; &nbsp; &nbsp; Slides:
+[![pdf](icons16/pdf-icon.png)](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/Design%20and%20Analysis%20of%20Algorithms/CS%206212%20Final%20Presentation.pdf)
+[![github](icons16/github-icon.png)](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/Design%20and%20Analysis%20of%20Algorithms/CS%206212%20Final%20Presentation.pdf)<br/>
+&nbsp; &nbsp; &nbsp;
+
+
+---
