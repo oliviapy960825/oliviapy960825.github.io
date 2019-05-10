@@ -29,8 +29,8 @@ FSGD is significantly different from the standard one because of the following s
 3. The fractional adaptive algorithms (i.e., FSGD) are more flexible in terms of design procedure, which are built either by applying fractional integrals or fractional derivatives for adaptation techniques.
 4. Fractional techniques (i.e., FSGD) cover wide applicability range. They are applicable for both nonlinear and linear systems.
 
-[![Violin Plot Example for Case Number](../../assets/publpics/pic_3.png)]<br />
-[![Violin Plot Example for Word Count](../../assets/publpics/pic_4.png)] <br />
-[![Violin Plot Example for Outcome](../../assets/publpics/pic_5.png)]] <br />
-[![Violin Plot Example for Weights](../../assets/publpics/pic_6.png)]] <br />
-[Violin Plot Example Code](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/Data%20Analytics%20Introduction%20and%20Practicum/6992_Project.ipynb)
+[![RMSE Visualization for SGD When k=10, epochs=200](../../assets/publpics/pic_19.png)]<br />
+[![RMSE Visualization for SGD When k=10, epochs=200](../../assets/publpics/pic_20.png)] <br />
+[![RMSE Visualization for FSGD When k=10, epochs=200](../../assets/publpics/pic_21.png)]] <br />
+[![RMSE Visualization for FSGD When k=20, epochs=200](../../assets/publpics/pic_22.png)]] <br />
+[Code Implementation](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/Design%20and%20Analysis%20of%20Algorithms/SGD%20and%20FSGD%20for%20Recommender%20Systems%20Code%20Implementation.ipynb)
