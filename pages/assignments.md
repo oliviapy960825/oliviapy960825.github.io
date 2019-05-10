@@ -187,12 +187,16 @@ Modules: preprocessing, feature extraction.
 ---
 
 ### <a name="Algorithms"></a> Design and Analysis of Algorithms Assignments & Projects
-
+* [Algorithms Assignments & Coding Projects](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Design%20and%20Analysis%20of%20Algorithms)
+* [Final Project - Code Implementation for SGD & FSGD for Recommender Systems](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/Design%20and%20Analysis%20of%20Algorithms/SGD%20and%20FSGD%20for%20Recommender%20Systems%20Code%20Implementation.ipynb)
 ---
 
 ### <a name="DBMSForDataAnalytics"></a> DBMS For Data Analytics Assignments & Projects
-
+* [Labs & Assignments](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/DBMS%20for%20Data%20Analytics)
+* [Final Project- User Analysis of Kindle Review Dataset](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/DBMS%20for%20Data%20Analytics/Project)
 ---
 
 ### <a name="AppliedMachineLearningForAnalytics"></a> Applied Machine Learning For Analytics Assignments & Projects
+* [Labs & Assignments](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Applied%20Machine%20Learning%20for%20Analytics)
+* [Final Project-Feature Engineering & Target Engineering](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Applied%20Machine%20Learning%20for%20Analytics/Final%20Project)
 ---
