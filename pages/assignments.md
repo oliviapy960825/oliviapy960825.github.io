@@ -190,14 +190,14 @@ Modules: preprocessing, feature extraction.
 * [Coding Project 1- Divide and Conquer](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Design%20and%20Analysis%20of%20Algorithms/CS2612PJ1)
 * [Coding Project 2- Dynamic Programming](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Design%20and%20Analysis%20of%20Algorithms/CS6212-Coding%20Project2)
 * [Coding Project 3- Graph Algorithms](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Design%20and%20Analysis%20of%20Algorithms/CS6212-Coding_Project3)
-* [Final Project - Code Implementation for SGD & FSGD for Recommender Systems](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/Design%20and%20Analysis%20of%20Algorithms/SGD%20and%20FSGD%20for%20Recommender%20Systems%20Code%20Implementation.ipynb)
+* [Final Project: Code Implementation for SGD & FSGD for Recommender Systems](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/Design%20and%20Analysis%20of%20Algorithms/SGD%20and%20FSGD%20for%20Recommender%20Systems%20Code%20Implementation.ipynb)
 ---
 
 ### <a name="DBMSForDataAnalytics"></a> DBMS For Data Analytics Assignments & Projects
 * [MongoDB Querying and Analysis](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/DBMS%20for%20Data%20Analytics/%7BWang%20Peiyu%7D%20%E2%80%93%20Assignment_01_Submission.ipynb)
 * [DynamoDB Querying and Analysis](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/DBMS%20for%20Data%20Analytics/%7BWang%20Peiyu%7D%20-%20Assignment_02_Submission.ipynb)
 * [AWS MySQL Querying and Analysis](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/DBMS%20for%20Data%20Analytics/%7BWang%20Peiyu%7D-%20Assignment_03_Submission.ipynb)
-* [Final Project- User Analysis of Kindle Review Dataset](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/DBMS%20for%20Data%20Analytics/Project)
+* [Final Project: User Analysis of Kindle Review Dataset](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/DBMS%20for%20Data%20Analytics/Project)
 ---
 
 ### <a name="AppliedMachineLearningForAnalytics"></a> Applied Machine Learning For Analytics Assignments & Projects
@@ -207,5 +207,5 @@ Modules: preprocessing, feature extraction.
 * [Crowdsourcing with AMT](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Applied%20Machine%20Learning%20for%20Analytics/HW4)
 * [Principal Components Analysis & k-means Clustering & Singular Value Decomposition & Latent Semantic Analysis](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Applied%20Machine%20Learning%20for%20Analytics/HW5)
 * [Latent Dirichlet Allocation](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Applied%20Machine%20Learning%20for%20Analytics/HW5_P2)
-* [Final Project-Feature Engineering & Target Engineering](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Applied%20Machine%20Learning%20for%20Analytics/Final%20Project)
+* [Final Project: Feature Engineering & Target Engineering](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Applied%20Machine%20Learning%20for%20Analytics/Final%20Project)
 ---
