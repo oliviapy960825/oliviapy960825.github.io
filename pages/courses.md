@@ -31,19 +31,25 @@ description: Student's Courses
 
 #### [Data Analytics Introduction and Practicum](http://bsharvey.github.io) (EMSE 6992; Fall, 2018)
 
-- [Site](https://oliviapy960825.github.io/)
+- [Site](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Data%20Analytics%20Introduction%20and%20Practicum)
 - [My Portfolio](https://oliviapy960825.github.io/)
 - [Assignments](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Data%20Analytics%20Introduction%20and%20Practicum)
 - [Labs](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs)
 
 
-#### [Design and Analysis of Algorithms]() (CS 6212; Spring, 2019)
+#### [Design and Analysis of Algorithms](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Design%20and%20Analysis%20of%20Algorithms) (CS 6212; Spring, 2019)
+-[Site](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Design%20and%20Analysis%20of%20Algorithms)
+-[Final Project- Stochastic Gradient Descent & Fractional Stochastic Gradient Descent for Recommender Systems Code Implementations](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/Design%20and%20Analysis%20of%20Algorithms/SGD%20and%20FSGD%20for%20Recommender%20Systems%20Code%20Implementation.ipynb)
 
 
-#### [DBMS For Data Analytics]() (EMSE 6586; Spring, 2019)
+#### [DBMS For Data Analytics](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/DBMS%20for%20Data%20Analytics) (EMSE 6586; Spring, 2019)
+-[Site](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/DBMS%20for%20Data%20Analytics)
+-[Final Project](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/DBMS%20for%20Data%20Analytics/Project)
 
-
-#### [Applied Machine Learning For Analytics]() (EMSE 6992; Spring, 2019)
+#### [Applied Machine Learning For Analytics](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Applied%20Machine%20Learning%20for%20Analytics) (EMSE 6992; Spring, 2019)
+-[Site](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Applied%20Machine%20Learning%20for%20Analytics)
+-[Labs](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Applied%20Machine%20Learning%20for%20Analytics)
+-[Final Project](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Applied%20Machine%20Learning%20for%20Analytics/Final%20Project)
 ---
 
 ### <a name="shortcourses"></a>Short courses

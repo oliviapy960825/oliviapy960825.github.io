@@ -18,7 +18,7 @@ A recommender system or a recommendation system (sometimes replacing "system" wi
 [Stochastic Gradient Descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)
 Stochastic gradient descent (often shortened to SGD), also known as incremental gradient descent, is an iterative method for optimizing a differentiable objective function, a stochastic approximation of gradient descent optimization.
 
-[Fractional Stochastic Gradient Descent](https://doi.org/10.1007/s12525-018-0297-2)
+[Fractional Stochastic Gradient Descent](https://doi.org/10.1007/s12525-018-0297-2)<br/>
 Proposed in Fractional stochastic gradient descent for recommender systems
 (Khan, Z.A., Chaudhary, N.I. & Zubair, S. Electron Markets (2018))
 Fractional calculus deals with integrals and derivatives that are of non-integer order.
