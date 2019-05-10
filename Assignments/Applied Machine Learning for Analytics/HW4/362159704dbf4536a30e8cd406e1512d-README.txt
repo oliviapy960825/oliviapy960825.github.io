@@ -1,0 +1,54 @@
+This is an export created with Social Feed Manager.
+
+EXPORT INFORMATION
+Selected seeds: All seeds
+Export id: 362159704dbf4536a30e8cd406e1512d
+Export type: twitter_search
+Format: Comma separated values (CSV)
+Export completed:  April 12, 2019, 9:57:25 a.m. EDT
+Deduplicate: Yes
+
+COLLECTION INFORMATION
+Collection name: anti-vaccine
+
+Collection id: f7e4fb7461eb413bb37eb1af95ad3eb9
+Collection set: anti-vaccine (collection set id b6d342db5bab475cb8e8f9079f899cad)
+Harvest type: Twitter search
+Schedule: Every week
+
+Harvest options:
+Incremental: Yes
+
+Seeds:
+* Query: anti-vaccine OR vaccine - Active
+
+Change log:
+
+Change to anti-vaccine (collection) on April 11, 2019, 2:44:24 p.m. EDT by oliviawpy:
+* is_on: "False" changed to "True"
+
+Change to anti-vaccine (collection) on April 11, 2019, 2:44:12 p.m. EDT by oliviawpy:
+* is_on: "True" changed to "False"
+
+Change to anti-vaccine (collection) on April 11, 2019, 2:24:03 p.m. EDT by oliviawpy:
+* is_on: "False" changed to "True"
+
+Change to Query: anti-vaccine OR vaccine (seed) on April 11, 2019, 2:23:56 p.m. EDT by oliviawpy:
+* token: "blank" changed to "{"query": "anti-vaccine OR vaccine"}"
+* is_active: "blank" changed to "True"
+
+Change to anti-vaccine (collection) on April 11, 2019, 2:23:13 p.m. EDT by oliviawpy:
+* collection_set: "blank" changed to "anti-vaccine"
+* credential: "blank" changed to "Olivia11788260's twitter credential"
+* harvest_type: "blank" changed to "twitter_search"
+* name: "blank" changed to "anti-vaccine"
+* is_on: "blank" changed to "False"
+* is_active: "blank" changed to "True"
+* visibility: "blank" changed to "default"
+* schedule_minutes: "blank" changed to "10080"
+* harvest_options: "blank" changed to "{"incremental": true}"
+* end_date: "blank" changed to "April 13, 2019, 2:20:38 p.m. EDT"
+
+
+Created on April 12, 2019, 9:57:25 a.m. EDT
+

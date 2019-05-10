@@ -33,7 +33,7 @@ keywords: statistics, data analytics
 <tr>
   <td class="left">
     <a href="pages/publpics/pic_3.html">
-        <img src="assets/publpics/pic_3.png" alt="violin plot for case number" title="violin plot for case number"/>
+        <img src="assets/publpics/pic_18.png" alt="SGD & FSGD Code Implementations for Recommender Systems" title="SGD & FSGD Code Implementations for Recommender Systems"/>
     </a>
   </td>
   <td class="right">

@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Violin Plot Example
+title: SGD & FSGD Code Implementations for Recommender Systems
 ---
 
 <div class="navbar">
@@ -12,10 +12,22 @@ title: Violin Plot Example
   </div>
 </div>
 
-[Violin Plot](https://en.wikipedia.org/wiki/Violin_plot)
-A violin plot is a method of plotting numeric data. It is similar to a box plot with a rotated kernel density plot on each side.[1]
+[Recommender Systems](https://en.wikipedia.org/wiki/Recommender_system)
+A recommender system or a recommendation system (sometimes replacing "system" with a synonym such as platform or engine) is a subclass of information filtering system that seeks to predict the "rating" or "preference" a user would give to an item. They are primarily used in commercial applications.
 
-A violin plot has four layers. The outer shape represents all possible results, with thickness indicating how common. (Thus the thickest section represents the mode average.) The next layer inside represents the values that occur 95% of the time. The next layer (if it exists) inside represents the values that occur 50% of the time. The central dot represents the median average value.
+[Stochastic Gradient Descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)
+Stochastic gradient descent (often shortened to SGD), also known as incremental gradient descent, is an iterative method for optimizing a differentiable objective function, a stochastic approximation of gradient descent optimization.
+
+[Fractional Stochastic Gradient Descent](https://doi.org/10.1007/s12525-018-0297-2)
+Proposed in Fractional stochastic gradient descent for recommender systems
+(Khan, Z.A., Chaudhary, N.I. & Zubair, S. Electron Markets (2018))
+Fractional calculus deals with integrals and derivatives that are of non-integer order.
+The fractional order variation in standard SGD substantially improves the speed and accuracy for providing better recommendations.
+FSGD is significantly different from the standard one because of the following salient features of fractional adaptive methods.
+1. Fractional adaptive methods (i.e., FSGD) have the ability to adapt the scheme variables of rigid systems more precisely because they are built on the complex mathematical grounds of fractional calculus.
+2. To control the convergence of adaptive methods, fraction- al adaptive algorithms offer more control parameters than other standard algorithms, e.g., FSGD provides μ, μfr (two learning rate parameters) and fr (fractional order parameter).
+3. The fractional adaptive algorithms (i.e., FSGD) are more flexible in terms of design procedure, which are built either by applying fractional integrals or fractional derivatives for adaptation techniques.
+4. Fractional techniques (i.e., FSGD) cover wide applicability range. They are applicable for both nonlinear and linear systems.
 
 [![Violin Plot Example for Case Number](../../assets/publpics/pic_3.png)]<br />
 [![Violin Plot Example for Word Count](../../assets/publpics/pic_4.png)] <br />
