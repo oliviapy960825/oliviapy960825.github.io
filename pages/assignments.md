@@ -14,6 +14,7 @@ description: Wang Peiyu's assignments
             <li><a href="#Algorithms">Design and Analysis of Algorithms Assignments & Projects</a></li>
             <li><a href="#DBMSForDataAnalytics">DBMS For Data Analytics Assignments & Projects</a></li>
             <li><a href="#AppliedMachineLearningForAnalytics">Applied Machine Learning For Analytics Assignments & Projects</a></li>
+            <li><a href="#IntroductiontoBigData&Analytics">Introduction to Big Data & Analytics Assignments & Projects</a></li>
         </ul>
     </div>
 </div>
@@ -213,5 +214,19 @@ Modules: preprocessing, feature extraction.
 * [Latent Dirichlet Allocation](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Applied%20Machine%20Learning%20for%20Analytics/HW5_P2)
 * [Final Project: Feature Engineering & Target Engineering](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Applied%20Machine%20Learning%20for%20Analytics/Final%20Project)
 
+
+---
+### <a name="AppliedMachineLearningForAnalytics"></a> Applied Machine Learning For Analytics Assignments & Projects
+* [Pickling/Serialization & Data Importation & Exploration from Different types of data file](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Applied%20Machine%20Learning%20for%20Analytics/HW1)
+* [Linear Regression & Logistic Regression & AIC/BIC For Model Evaluation](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Applied%20Machine%20Learning%20for%20Analytics/HW2)
+* [Naive Bayes & Support Vector Machine (SVM) & Kernel Tricks](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Applied%20Machine%20Learning%20for%20Analytics/HW3)
+* [Crowdsourcing with AMT](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Applied%20Machine%20Learning%20for%20Analytics/HW4)
+* [Principal Components Analysis & k-means Clustering & Singular Value Decomposition & Latent Semantic Analysis](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Applied%20Machine%20Learning%20for%20Analytics/HW5)
+* [Latent Dirichlet Allocation](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Applied%20Machine%20Learning%20for%20Analytics/HW5_P2)
+* [Final Project: Feature Engineering & Target Engineering](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Applied%20Machine%20Learning%20for%20Analytics/Final%20Project)
+
+
+---
+### <a name="IntroductiontoBigData&Analytics"></a> Introduction to Big Data & Analytics Assignments & Projects
 
 ---

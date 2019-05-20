@@ -50,6 +50,11 @@ description: Student's Courses
 - [Site](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Applied%20Machine%20Learning%20for%20Analytics)
 - [Labs](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Applied%20Machine%20Learning%20for%20Analytics)
 - [Final Project](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Applied%20Machine%20Learning%20for%20Analytics/Final%20Project)
+
+#### [Introduction to Big Data & Analytics]() (CSCI 6444; Summer, 2019)
+- [Site]()
+- [Labs]()
+- [Final Project]()
 ---
 
 ### <a name="shortcourses"></a>Short courses
