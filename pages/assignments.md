@@ -228,5 +228,6 @@ Modules: preprocessing, feature extraction.
 
 ---
 ### <a name="IntroductiontoBigData&Analytics"></a> Introduction to Big Data & Analytics Assignments & Projects
-
+* [R and Graph Analytics]()
+* [Text Analytics in R]()
 ---

@@ -53,9 +53,8 @@ description: Student's Courses
 
 
 #### [Introduction to Big Data & Analytics]() (CSCI 6444; Summer, 2019)
-- [Site]()
-- [Labs]()
-- [Final Project]()
+- [Projects]()
+- [Term Paper]()
 
 
 ---
