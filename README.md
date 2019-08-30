@@ -1,6 +1,4 @@
-## Karl Broman&rsquo;s website
-
-See [kbroman.org](http://kbroman.org).
+## Wang Peiyu&rsquo;s website
 
 ---
 
