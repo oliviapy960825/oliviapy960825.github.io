@@ -56,6 +56,20 @@ description: Student's Courses
 - [Projects](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Introduction%20to%20Big%20Data%20%26%20Analytics)
 - [Term Paper](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Introduction%20to%20Big%20Data%20%26%20Analytics)
 
+#### [Data-Driven Policy]() (EMSE 6577; Fall, 2019)
+- [Assignments]
+
+
+#### [Computer System Architecture]() (CSCI 6461; Fall, 2019)
+- [Site](http://www.mslcourses.com/CSCI6461SectionO12Fall2019/Schedule6461SectionO12Fall2019.html)
+- [Labs]()
+- [Term Paper]()
+
+
+#### [Systems Thinking & Policy Modeling]() (EMSE6740; Fall, 2019)
+- [Site](https://github.com/maksim2042/EMSE-6740)
+- [Labs]()
+
 
 ---
 

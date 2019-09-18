@@ -234,3 +234,17 @@ Modules: preprocessing, feature extraction.
 
 
 ---
+
+
+### <a name="Data-DrivenPolicy"></a> Data-Driven Policy Assignments & Projects
+
+
+---
+
+### <a name="SystemsThinkingAndPolicyModeling"></a> Systems Thinking and Policy Modeling Assignments & Projects
+
+---
+
+### <a name="ComputerSystemArchitecture"></a> Computer System Architecture Assignments & Projects
+
+---
