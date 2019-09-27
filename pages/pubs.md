@@ -1,18 +1,15 @@
 ---
 layout: page
-title: publications
-description: Wang Peiyu's publications
+title: Side Projects
+description: Wang Peiyu's Side Projects
 ---
 
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#book">book</a></li>
-            <li><a href="#articles">articles</a></li>
+            <li><a href="#DeepLearning">Deep Learning</a></li>
+            <li><a href="#NLP">NLP</a></li>
             <li><a href="#conferences">conferences</a></li>
-            <li><a href="#editorials">editorials</a></li>
-            <li><a href="#letters">letters</a></li>
-            <li><a href="#chapters">chapters</a></li>
             <li><a href="#techreports">tech reports</a></li>
             <li><a href="#thesis">dissertation</a></li>
         </ul>
@@ -20,12 +17,12 @@ description: Wang Peiyu's publications
 </div>
 
 
-#### <a name="book"></a>book
+#### <a name="DeepLearning"></a>Deep Learning Projects
 
 
 ---
 
-#### <a name="articles"></a>journal articles
+#### <a name="NLP"></a>NLP Projects
 
 ---
 
@@ -35,26 +32,8 @@ description: Wang Peiyu's publications
 ---
 
 
-#### <a name="editorials"></a>editorials
-
----
-
-
-#### <a name="letters"></a>letters
-
----
-
-
-#### <a name="chapters"></a>proceedings and book chapters
-
----
 
 
 #### <a name="techreports"></a>technical reports
-
----
-
-
-#### <a name="thesis"></a>dissertation
 
 ---

@@ -15,6 +15,9 @@ description: Wang Peiyu's assignments
             <li><a href="#DBMSForDataAnalytics">DBMS For Data Analytics Assignments & Projects</a></li>
             <li><a href="#AppliedMachineLearningForAnalytics">Applied Machine Learning For Analytics Assignments & Projects</a></li>
             <li><a href="#IntroductiontoBigData&Analytics">Introduction to Big Data & Analytics Assignments & Projects</a></li>
+            <li><a href="#DataDrivenPolicy">Data-Driven Policy Assignments & Projects</a></li>
+            <li><a href="#SystemsThinkingAndPolicyModeling">Systems Thinking and Policy Modeling Assignments & Projects</a></li>
+            <li><a href="#ComputerSystemArchitecture">Computer System Architecture Assignments & Projects</a></li>
         </ul>
     </div>
 </div>
