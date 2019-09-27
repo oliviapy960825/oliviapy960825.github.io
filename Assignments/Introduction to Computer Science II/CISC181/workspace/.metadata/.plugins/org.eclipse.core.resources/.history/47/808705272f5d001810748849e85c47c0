@@ -1,9 +1,0 @@
-package First;
-
-public class Cat2 {
-public String name="Argon";
-public String toString(){return "Neon";}
-public static void printNames(Cat c1, Cat c2){
-	System.out.println(c1.name+" "+c2.name);
-}
-}

@@ -1,6 +1,0 @@
-package First;
-
-public class Wombat {
-public int numLegs;
-public String name;
-}

@@ -5,7 +5,7 @@ description: Wang Peiyu is...
 ---
 
 ### <a name="currentposition"></a>current position
-{Student at The George Washington University}
+{Master's Student at The George Washington University}
 
 
 ### <a name="previousposition"></a>previous positions
@@ -18,9 +18,11 @@ description: Wang Peiyu is...
 
 
 ### <a name="education"></a>ecucation
-{ B.B.A. in E-commerce at Southwestern University of Finance and Economics} <br>
-{ B.S. in Management Information Systems, minor in computer science at University of Delaware}  
-{ M.S. in Data Analytics at The George Washington University}
+{ M.S. in Data Analytics at The George Washington University}<br>
+{ B.S. in Management Information Systems, minor in computer science at University of Delaware}<br>
+{ B.B.A. in E-commerce at Southwestern University of Finance and Economics}
+
+
 
 
 ### <a name="cvandresume"></a>cv and resume

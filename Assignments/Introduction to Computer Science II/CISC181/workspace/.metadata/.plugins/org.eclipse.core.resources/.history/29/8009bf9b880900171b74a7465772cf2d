@@ -1,6 +1,0 @@
-
-public interface Fruit {
-String color="White";
-double weight=0;
-double getCalories();
-}
