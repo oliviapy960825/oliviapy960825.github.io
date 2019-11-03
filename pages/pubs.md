@@ -37,3 +37,8 @@ description: Wang Peiyu's Side Projects
 #### <a name="techreports"></a>technical reports
 
 ---
+
+
+#### <a name="sideprojects"></a>Side Projects
+* [supreme court case exploratory analysis]
+---
