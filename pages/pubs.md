@@ -41,6 +41,8 @@ description: Wang Peiyu's Side Projects
 
 #### <a name="sideprojects"></a>Side Projects
 * [supreme court case data set](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/assets/misc/SCDB_2019_01_justiceCentered_Vote.csv)
+* [judges data set](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/assets/misc/judges.csv)
+* [case law project dataset (API needed for fetching case information)](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/assets/misc/cases_by_jurisdiction.6d65b8e11449.tsv)
 * [supreme court case exploratory analysis](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/assets/misc/PROJECT%20PILOT.ipynb)
 
 
