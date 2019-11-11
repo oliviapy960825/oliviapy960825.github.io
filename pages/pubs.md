@@ -49,7 +49,7 @@ description: Wang Peiyu's Side Projects
 ---
 
 #### <a name="datachallenges"></a>Data Challenges
-* [SQLite & Docker & Python]()
+* [SQLite & Docker & Python](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/assets/misc/SQLite_Docker_Python_Challenge)
 * [Data Science & Algorithm (Dynamic Programming & Pilot Project showcasing)]()
 
 
