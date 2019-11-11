@@ -12,6 +12,8 @@ description: Wang Peiyu's Side Projects
             <li><a href="#conferences">conferences</a></li>
             <li><a href="#techreports">tech reports</a></li>
             <li><a href="#thesis">dissertation</a></li>
+            <li><a href="#sideprojects">side projects</a></li>
+            <li><a href="#datachallenges">data challenges</a></li>
         </ul>
     </div>
 </div>
