@@ -47,3 +47,10 @@ description: Wang Peiyu's Side Projects
 
 
 ---
+
+#### <a name="datachallenges"></a>Data Challenges
+* [SQLite & Docker & Python]()
+* [Data Science & Algorithm (Dynamic Programming & Pilot Project showcasing)]()
+
+
+---

@@ -1,0 +1,21 @@
+{% extends "home-base.html"%}
+{% block title %}Add Positions{% endblock %}
+{% block page_content%}
+
+  <!-- Page Content -->
+  <div class="container">
+    <h1 class="mt-5"><i class="fa fa-music" aria-hidden="true"></i> Add Positions:</h1>
+    <form action="/position/add" method="post">
+      <div class="form-group">
+        <label>Name</label>
+        <input class="form-control" type="text" name="name" placeholder="Name of the Position" required="true">
+      </div>
+      <div class="form-group">
+        <label>Description</label>
+        <textarea class="form-control" name="description" placeholder="Description" required="true"></textarea>
+      </div>
+      <button type="submit" class="btn btn-primary">Add Position</button>
+    </form>
+  </div>
+
+{% endblock%}

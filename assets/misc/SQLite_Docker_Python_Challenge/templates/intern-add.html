@@ -1,0 +1,43 @@
+{% extends "home-base.html"%}
+{% block title %}Add Interns{% endblock %}
+{% block page_content%}
+
+  <!-- Page Content -->
+  <div class="container">
+    <h1 class="mt-5"><i class="fa fa-film" aria-hidden="true"></i> Add Interns:</h1>
+    <form action="/intern/add" method="post">
+      <div class="form-group">
+        <label>First Name</label>
+        <input class="form-control" type="text" name="first_name" placeholder="First Name of the Intern" required="true">
+      </div>
+      <div class="form-group">
+        <label>Last Name</label>
+        <input class="form-control" type="text" name="last_name" placeholder="Last Name of the Intern" required="true">
+      </div>
+      <div class="form-group">
+        <label>Position Applied</label>
+        <select class="form-control" name="position_applied">
+          {% for position in positions %}
+              <option>{{position.name}}</option>
+          {% endfor %}
+        </select>
+      </div>
+      <div class="form-group">
+        <label>School</label>
+        <textarea class="form-control" name="school" placeholder="School" required="true"></textarea>
+      </div>
+      <div class="form-group">
+        <label>Program</label>
+        <textarea class="form-control" name="program" placeholder="Program" required="true"></textarea>
+      </div>
+
+      <div class="form-group">
+        <label>Time of Entry</label>
+        <textarea class="form-control" name="time_of_entry" placeholder="Time of Entry" required="true"></textarea>
+      </div>
+
+      <button type="submit" class="btn btn-primary">Add Intern</button>
+    </form>
+  </div>
+
+{% endblock%}

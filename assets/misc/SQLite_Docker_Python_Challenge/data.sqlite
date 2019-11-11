@@ -1,0 +1,23 @@
+import sqlite3
+print sqlite3.sqlite_version
+from sqlite3 import Error
+
+
+CREATE TABLE IF NOT EXISTS positions (
+                                      name VARCHAR(64),
+                                      description TEXT
+                                      PRIMARY KEY (id)
+                                  );
+
+CREATE TABLE IF NOT EXISTS interns (
+                  id INTEGER NOT NULL,
+                  last_name VARCHAR(64) NOT NULL,
+                  first_name VARCHAR(64) NOT NULL,
+                  position_applied VARCHAR(64) NOT NULL,
+                  school VARCHAR(64) NOT NULL,
+                  program VARCHAR(64) NOT NULL,
+                  date_of_entry TEXT NOT NULL,
+                  PRIMARY KEY (id)
+                  FOREIGN KEY (position_applied) REFERENCES positions (name)
+                  ON UPDATE NO ACTION
+);

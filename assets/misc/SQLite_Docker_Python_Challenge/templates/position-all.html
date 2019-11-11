@@ -1,0 +1,61 @@
+{% extends "home-base.html"%}
+{% block title %}All Genres{% endblock %}
+{% block page_content%}
+
+  <!-- Page Content -->
+  <div class="container">
+    <h1 class="mt-5"><i class="fa fa-smile-o" aria-hidden="true"></i> Positions:</h1>
+    <div class="row bottom-margin">
+      <a href="/position/add" class="btn btn-primary" role="button" aria-disabled="true">Add Position</a>
+    </div>
+    {% if positions %}
+      <table class="table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Name</th>
+            <th>Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for position in positions %}
+          <tr>
+              <th scope="row">{{position.id}}</th>
+              <td>{{position.name}}</td>
+              <td>
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#{{position.id}}">
+                  View Description
+                </button>
+
+                <!-- Modal -->
+                <div class="modal fade" id="{{position.id}}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+                  <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                      <div class="modal-header">
+                        <h5 class="modal-title" id="{{position.name}}"></h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                          <span aria-hidden="true">&times;</span>
+                        </button>
+                      </div>
+                      <div class="modal-body">
+                        <div class="modal-body">
+                                  <p>{{position.description}}</p>
+                                </div>
+                      </div>
+                      <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </td>
+          </tr>
+          {% endfor%}
+        </tbody>
+      </table>
+    {% else %}
+      <h3>there are no positions in the database yet.</h3>
+    {% endif %}
+  </div>
+
+{% endblock%}
