@@ -240,14 +240,19 @@ Modules: preprocessing, feature extraction.
 
 
 ### <a name="Data-DrivenPolicy"></a> Data-Driven Policy Assignments & Projects
-
+* [Writeups]()
+* [Presentations]()
 
 ---
 
 ### <a name="SystemsThinkingAndPolicyModeling"></a> Systems Thinking and Policy Modeling Assignments & Projects
+* [HW1-Dynamic Modeling]()
+* [Agent Based Model on Obesity, Depression and their interactions in a society]()
 
 ---
 
 ### <a name="ComputerSystemArchitecture"></a> Computer System Architecture Assignments & Projects
+* [Project: Virtual Machine in JAVA]()
+* [Term Paper]()
 
 ---

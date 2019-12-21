@@ -57,7 +57,8 @@ description: Student's Courses
 - [Term Paper](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Introduction%20to%20Big%20Data%20%26%20Analytics)
 
 #### [Data-Driven Policy]() (EMSE 6577; Fall, 2019)
-- [Assignments]
+- [Writeups]()
+- [Presentations]()
 
 
 #### [Computer System Architecture]() (CSCI 6461; Fall, 2019)

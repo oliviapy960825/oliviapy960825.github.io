@@ -5,6 +5,8 @@ description: Wang Peiyu is...
 ---
 
 ### <a name="currentposition"></a>current position
+{Data Science Intern at Athenium Analytics}
+{Research Assistant at The George Washington University}
 {Master's Student at The George Washington University}
 
 
