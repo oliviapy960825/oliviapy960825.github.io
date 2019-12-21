@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 ---
 layout: frontpage
 title: SGD & FSGD Code Implementations for Recommender Systems
