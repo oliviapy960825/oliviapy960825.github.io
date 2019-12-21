@@ -37,7 +37,7 @@ description: Wang Peiyu's Presentations in Data Analytics
 
 #### EMSE 6577 Presentations: {Data-driven Policy}
 <br/>&nbsp; &nbsp; &nbsp; Slides:
-[![github](icons16/github-icon.png)](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/Design%20and%20Analysis%20of%20Algorithms/CS%206212%20Final%20Presentation.pdf)<br/>
+[![github](icons16/github-icon.png)](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Data-Driven%20Policy/Presentations)<br/>
 &nbsp; &nbsp; &nbsp;
 
 ---

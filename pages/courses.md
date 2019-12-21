@@ -57,19 +57,19 @@ description: Student's Courses
 - [Term Paper](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Introduction%20to%20Big%20Data%20%26%20Analytics)
 
 #### [Data-Driven Policy]() (EMSE 6577; Fall, 2019)
-- [Writeups]()
-- [Presentations]()
+- [Writeups](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Data-Driven%20Policy/Write-ups)
+- [Presentations](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Data-Driven%20Policy/Presentations)
 
 
 #### [Computer System Architecture]() (CSCI 6461; Fall, 2019)
 - [Site](http://www.mslcourses.com/CSCI6461SectionO12Fall2019/Schedule6461SectionO12Fall2019.html)
-- [Labs]()
-- [Term Paper]()
+- [Labs](https://github.com/oliviapy960825/CS6461ProjectPhase1)
+- [Term Paper](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/Computer%20System%20Architecture/Computer%20System%20Architectural%20Parallelism.pdf)
 
 
 #### [Systems Thinking & Policy Modeling]() (EMSE6740; Fall, 2019)
 - [Site](https://github.com/maksim2042/EMSE-6740)
-- [Labs]()
+- [Labs](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/System%20Thinking%20%26%20Modeling)
 
 
 ---

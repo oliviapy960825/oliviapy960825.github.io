@@ -240,19 +240,19 @@ Modules: preprocessing, feature extraction.
 
 
 ### <a name="Data-DrivenPolicy"></a> Data-Driven Policy Assignments & Projects
-* [Writeups]()
-* [Presentations]()
+* [Writeups](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Data-Driven%20Policy/Write-ups)
+* [Presentations](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Data-Driven%20Policy/Presentations)
 
 ---
 
 ### <a name="SystemsThinkingAndPolicyModeling"></a> Systems Thinking and Policy Modeling Assignments & Projects
-* [HW1-Dynamic Modeling]()
-* [Agent Based Model on Obesity, Depression and their interactions in a society]()
+* [HW1-Dynamic Modeling](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/System%20Thinking%20%26%20Modeling/HW1)
+* [Agent Based Model on Obesity, Depression and their interactions in a society](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/System%20Thinking%20%26%20Modeling/Final%20Project)
 
 ---
 
 ### <a name="ComputerSystemArchitecture"></a> Computer System Architecture Assignments & Projects
-* [Project: Virtual Machine in JAVA]()
-* [Term Paper]()
+* [Project: Virtual Machine in JAVA](https://github.com/oliviapy960825/CS6461ProjectPhase1)
+* [Term Paper](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/Computer%20System%20Architecture/Computer%20System%20Architectural%20Parallelism.pdf)
 
 ---
