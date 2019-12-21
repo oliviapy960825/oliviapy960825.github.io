@@ -37,8 +37,8 @@ keywords: statistics, data analytics
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/pic_12.html">
-        <img src="assets/publpics/pic_12.png" alt="SPLOM Visualization" title="SPLOM Visualization"/>
+    <a href="pages/publpics/DepressionObesityModel.html">
+        <img src="assets/publpics/DepressionObesityModel.gif" alt="Depression Obesity Model" title="Agent Based Depression Obesity Model"/>
     </a>
   </td>
 </tr>
