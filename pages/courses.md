@@ -72,7 +72,18 @@ description: Student's Courses
 - [Labs](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/System%20Thinking%20%26%20Modeling)
 
 
+#### [Bias in AI]() (CSCI6907; Spring, 2020)
+- [Site]
+- [Labs]
+
+
+#### [Capstone Project]() (SEAS6402; Spring, 2020)
+- [Site]
+- [Labs]
+
+
 ---
+
 
 ### <a name="shortcourses"></a>Short courses
 

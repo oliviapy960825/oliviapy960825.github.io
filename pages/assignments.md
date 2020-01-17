@@ -18,6 +18,8 @@ description: Wang Peiyu's assignments
             <li><a href="#DataDrivenPolicy">Data-Driven Policy Assignments & Projects</a></li>
             <li><a href="#SystemsThinkingAndPolicyModeling">Systems Thinking and Policy Modeling Assignments & Projects</a></li>
             <li><a href="#ComputerSystemArchitecture">Computer System Architecture Assignments & Projects</a></li>
+            <li><a href="#BiasInAI">Bias In AI Assignments & Projects</a></li>
+            <li><a href="#Capstone">Capstone Project Assignments</a></li>
         </ul>
     </div>
 </div>
@@ -254,5 +256,17 @@ Modules: preprocessing, feature extraction.
 ### <a name="ComputerSystemArchitecture"></a> Computer System Architecture Assignments & Projects
 * [Project: Virtual Machine in JAVA](https://github.com/oliviapy960825/CS6461ProjectPhase1)
 * [Term Paper](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/Computer%20System%20Architecture/Computer%20System%20Architectural%20Parallelism.pdf)
+
+---
+### <a name="BiasInAI"></a> Bias In AI Assignments & Projects
+* [Project]()
+* [Term Paper]()
+
+---
+
+
+### <a name="Capstone"></a> Capstone Project Assignments
+* [Project]()
+* [Term Paper]()
 
 ---

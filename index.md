@@ -2,7 +2,7 @@
 layout: frontpage
 title: Wang Peiyu
 description: Wang Peiyu is a Data Analytics student at The George Washington University.
-keywords: statistics, data analytics
+keywords: statistics, data analytics, data science, computer science, machine learning
 ---
 
 <div class="navbar">

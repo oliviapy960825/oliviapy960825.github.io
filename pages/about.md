@@ -5,13 +5,14 @@ description: Wang Peiyu is...
 ---
 
 ### <a name="currentposition"></a>current position
-{Data Science Intern at Athenium Analytics}
-{Research Assistant at The George Washington University}
+{Data Science Intern at Mid-Atlantic Permanente Medical Group}<br>
+{Research Assistant at The George Washington University}<br>
 {Master's Student at The George Washington University}
 
 
 ### <a name="previousposition"></a>previous positions
-{Data Science Intern at MilliporeSigma}
+{Data Science Intern at Athenium Analytics}<br>
+{Data Science Intern at MilliporeSigma}<br>
 {Tutor at University of Delaware}
 
 
