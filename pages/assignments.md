@@ -249,7 +249,7 @@ Modules: preprocessing, feature extraction.
 
 ### <a name="SystemsThinkingAndPolicyModeling"></a> Systems Thinking and Policy Modeling Assignments & Projects
 * [HW1-Dynamic Modeling](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/System%20Thinking%20%26%20Modeling/HW1)
-* [Agent Based Model on Obesity, Depression and their interactions in a society](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/System%20Thinking%20%26%20Modeling/Final%20Project)
+* [Agent Based Model on Obesity, Depression and their interactions in a society](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/System%20Thinking%20%26%20Modeling/Final%20Project/AgentDepressionObesityModel-revised.ipynb)
 
 ---
 
