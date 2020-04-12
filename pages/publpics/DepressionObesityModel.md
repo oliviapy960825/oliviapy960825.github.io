@@ -17,4 +17,4 @@ agents (both individual or collective entities such as organizations or groups) 
 the system as a whole.
 
 [![Agent Based Depression Obesity Model Example](../../assets/publpics/DepressionObesityModel.gif)]  <br />
-[Agent Based Depression Obesity Model Example Code](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/System%20Thinking%20%26%20Modeling/Final%20Project/MMWAgentDepressionObesityModel.ipynb)
+[Agent Based Depression Obesity Model Example Code](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/System%20Thinking%20%26%20Modeling/Final%20Project/AgentDepressionObesityModel-revised.ipynb)
