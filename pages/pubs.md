@@ -20,12 +20,12 @@ description: Wang Peiyu's Side Projects
 
 
 #### <a name="DeepLearning"></a>Deep Learning Projects
-
+* [Deep Learning Specialization Assignments](https://github.com/oliviapy960825/Deep-Learning-Archive)
 
 ---
 
 #### <a name="NLP"></a>NLP Projects
-
+* [Natural Language Processing Projects]()
 ---
 
 
