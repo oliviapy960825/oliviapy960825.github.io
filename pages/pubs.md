@@ -20,7 +20,7 @@ description: Wang Peiyu's Side Projects
 
 
 #### <a name="DeepLearning"></a>Deep Learning Projects
-* [Deep Learning Specialization Assignments](https://github.com/oliviapy960825/Deep-Learning-Archive)
+* [Deep Learning Specialization Assignments](https://github.com/oliviapy960825/Deep-Learning-Archive/tree/master/Deep_Learning_concentration_assignment)
 
 ---
 
