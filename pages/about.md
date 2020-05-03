@@ -11,8 +11,8 @@ description: Wang Peiyu is...
 
 
 ### <a name="previousposition"></a>previous positions
-{Data Science Intern at Athenium Analytics}<br>
-{Data Science Intern at MilliporeSigma}<br>
+{Data Analytics Intern at Athenium Analytics}<br>
+{Data Analyst at MilliporeSigma}<br>
 {Tutor at University of Delaware}
 
 
