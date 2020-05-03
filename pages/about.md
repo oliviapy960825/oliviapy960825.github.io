@@ -20,7 +20,7 @@ description: Wang Peiyu is...
 {N/A}
 
 
-### <a name="education"></a>ecucation
+### <a name="education"></a>education
 { M.S. in Data Analytics at The George Washington University}<br>
 { B.S. in Management Information Systems, minor in computer science at University of Delaware}<br>
 { B.B.A. in E-commerce at Southwestern University of Finance and Economics}
