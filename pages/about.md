@@ -6,7 +6,6 @@ description: Wang Peiyu is...
 
 ### <a name="currentposition"></a>current position
 {Data Science Intern at Mid-Atlantic Permanente Medical Group}<br>
-{Research Assistant at The George Washington University}<br>
 {Master's Student at The George Washington University}
 
 
@@ -17,7 +16,7 @@ description: Wang Peiyu is...
 
 
 ### <a name="researchbackground"></a>research background
-{N/A}
+{Research Assistant at The George Washington University}<br>
 
 
 ### <a name="education"></a>education
