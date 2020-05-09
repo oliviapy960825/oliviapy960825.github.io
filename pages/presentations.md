@@ -40,4 +40,17 @@ description: Wang Peiyu's Presentations in Data Analytics
 [![github](icons16/github-icon.png)](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Data-Driven%20Policy/Presentations)<br/>
 &nbsp; &nbsp; &nbsp;
 
+
+#### SEAS 6402 Presentations: {Capstone Project: Opioid Mapping}
+<br/>&nbsp; &nbsp; &nbsp; Slides:
+[![github](icons16/github-icon.png)](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/Capstone/Opioid%20FP1_FINAL_SUBMISSION.pptx)<br/>
+&nbsp; &nbsp; &nbsp;
+
+
+#### CSCI 6907 Presentations: {Bias in AI Project}
+<br/>&nbsp; &nbsp; &nbsp; Slides:
+[![github](icons16/github-icon.png)](https://github.com/oliviapy960825/word_embedding_analogy_analysis/blob/master/Presentation_Bias_in_AI_FF_LW_PW_WG_Spring2020-2.pptx)<br/>
+&nbsp; &nbsp; &nbsp;
+
+
 ---

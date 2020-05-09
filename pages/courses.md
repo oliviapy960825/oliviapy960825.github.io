@@ -73,13 +73,11 @@ description: Student's Courses
 
 
 #### [Bias in AI]() (CSCI6907; Spring, 2020)
-- [Site]
-- [Labs]
+- [Site](https://github.com/oliviapy960825/oliviapy960825.github.io/tree/master/Assignments/Capstone)
 
 
 #### [Capstone Project]() (SEAS6402; Spring, 2020)
-- [Site]
-- [Labs]
+- [Site](https://github.com/oliviapy960825/word_embedding_analogy_analysis)
 
 
 ---

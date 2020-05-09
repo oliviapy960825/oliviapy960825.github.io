@@ -259,14 +259,14 @@ Modules: preprocessing, feature extraction.
 
 ---
 ### <a name="BiasInAI"></a> Bias In AI Assignments & Projects
-* [Project]()
-* [Term Paper]()
+* [Project: Tradeoffs between gender debiasing word embedding and word embedding quality](https://github.com/oliviapy960825/word_embedding_analogy_analysis)
+* [Term Paper](https://github.com/oliviapy960825/word_embedding_analogy_analysis/blob/master/ProjectReport_BiasAI_Spring2020_FF_LW_PW_WG.pdf)
 
 ---
 
 
-### <a name="Capstone"></a> Capstone Project Assignments
-* [Project]()
-* [Term Paper]()
+### <a name="Capstone"></a> Capstone: Opioid Mapping Project Assignments
+* [Project](https://github.com/drewgobbi/Opioid_Mapping_Project)
+* [Term Paper](https://github.com/oliviapy960825/oliviapy960825.github.io/blob/master/Assignments/Capstone/Opioid_mapping_report.pdf)
 
 ---
